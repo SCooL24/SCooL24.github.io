@@ -12,26 +12,12 @@ email: your-email@example.com
 markdown: kramdown
 sass:
   style: compressed
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
-# # Additional exclude from processing
-# exclude:
-#   - .github/
-#   - README.md
-#   - LICENSE.md
-#   - REDISTRIBUTED.md
-#   - purgecss.config.js
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
 
 collections:
   talks:
