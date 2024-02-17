@@ -15,11 +15,23 @@ jobs:
         with:
           lfs: true
 
-      - name: Setup Ruby, Bundler and Jekyll
-        uses: ruby/setup-ruby@v1
+      - name: Setup Ruby for use with actions
+        uses: actions/setup-ruby@v1
+
+      - name: Cache
+        id: cache_ruby
+        uses: actions/cache@v1
         with:
-          ruby-version: '3.2.1'
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          path: vendor/bundle
+          key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gem-
+
+      - name: Install Bundler and Jekyll
+        if: steps.cache_ruby.outputs.cache-hit != 'true'
+        run: |
+          gem install bundler
+          bundle install --path vendor/bundle
 
       - name: Build website
         run: |

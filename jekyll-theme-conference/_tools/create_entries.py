@@ -5,64 +5,7 @@ import csv
 import yaml
 import json
 from datetime import datetime
-from copy import deepcopy
-
-import re
-from unicodedata import normalize
-
-
-QUESTIONS = [
-    # {
-    #     'id': 1000,
-    #     'category': 'categories',
-    #     'default': 'Beginner'
-    # },
-    # {
-    #     'id': 1200,
-    #     'category': 'live.links',
-    #     'structure': {
-    #         'name': 'Q&A',
-    #         'icon': 'question',
-    #         'absolute_url': '{answer}'
-    #     }
-    # }
-]
-
-
-def get_by_path(root, items, create=False):
-    data = root
-    for item in items:
-        if item not in data and create:
-            data[item] = {}
-        data = data[item]
-    return data
-
-
-def set_by_path(root, items, value):
-    get_by_path(root, items[:-1], True)[items[-1]] = value
-
-
-def get_id(string):
-    # work only in lower case
-    string = string.lower()
-
-    # remove URL unsafe characters (ä, ö, ü, é, è, à, ...)
-    string = normalize(
-        'NFKD', string).encode('ASCII', 'ignore').decode('utf-8')
-
-    # replace spaces
-    string = string.replace(' ', '_')
-
-    # replace dashes
-    string = string.replace('-', '_')
-
-    # remove remaining special characters (:, /, ...)
-    string = re.sub(r'(?u)[^-\w]', '', string)
-
-    # remove consecutive underscores
-    string = re.sub('_+','_', string)
-
-    return string
+from conference import get_id
 
 
 def escape_markdown(text):
@@ -145,7 +88,6 @@ def parse_frab(file_path):
                                 content['speakers'][-1]['last_name'] = \
                                     speaker_names[0]
 
-                    # Get abstract and description
                     abstract = talk['abstract']
                     description = talk['description']
 
@@ -161,63 +103,30 @@ def parse_frab(file_path):
                     else:
                         text = ''
 
-                    new_talk = {
+                    content['talks'].append({
                         'name': talk['title'],
                         'speakers':
                             [s['public_name'] for s in talk['persons']],
                         'categories': [talk['track'], talk['type']],
                         'description': text
-                    }
-
-                    # Extract information from questions/answers
-                    if 'answers' in talk and len(talk['answers']) > 0:
-                        answers = {
-                            a['question']: a['answer'] for a in talk['answers']
-                        }
-
-                        for question in QUESTIONS:
-                            # Extract answer
-                            answer = None
-                            if question['id'] in answers:
-                                answer = answers[question['id']]
-
-                            # Default answer or skip
-                            if not answer:
-                                if 'default' in question:
-                                    answer = question['default']
-                                else:
-                                    continue
-
-                            # Format answer given a predefined structure
-                            if 'structure' in question:
-                                struct_answer = deepcopy(question['structure'])
-
-                                for key, item in struct_answer.items():
-                                    struct_answer[key] = item.format(
-                                        answer=answer)
-                                answer = struct_answer
-
-                            # Extend new_talk dictionary
-                            path = question['category'].split('.')
-                            item = get_by_path(new_talk, path, True)
-                            if isinstance(item, list):
-                                item.append(answer)
-                            elif item:
-                                item = [item, answer]
-                            else:
-                                item = answer
-                            set_by_path(new_talk, path, item)
-
-                    content['talks'].append(new_talk)
+                        })
 
                     # Calculate talk end time
                     talk_start = (talk['start']).split(':')
                     talk_duration = (talk['duration']).split(':')
-                    talk_end = [int(talk_start[0]) + int(talk_duration[0]),
+
+                    talk_end = [0,
+                                int(talk_start[0]) + int(talk_duration[0]),
                                 int(talk_start[1]) + int(talk_duration[1])]
-                    talk_end[0] = (talk_end[0] + talk_end[1] // 60) % 24
-                    talk_end[1] = talk_end[1] % 60
-                    talk_end = "{}:{:02d}".format(talk_end[0], talk_end[1])
+                    talk_end[1] = (talk_end[1] + talk_end[2] // 60)
+                    talk_end[2] %= 60
+                    talk_end[0] = (talk_end[0] + talk_end[1] // 24)
+                    talk_end[1] %= 24
+
+                    # Indicate if talk is overlapping into next day
+                    talk_end = '{:02d}:{:02d}{}'.format(
+                        talk_end[1], talk_end[2],
+                        ' +{}'.format(talk_end[0]) if talk_end[0] > 0 else '')
 
                     content['program'].append({
                         'name': talk['title'],
@@ -286,7 +195,7 @@ def create_files(content, folder_name, file_name, file_content, clean=False):
 
     # otherwise, delete if requested
     elif clean:
-        for root, _, files in os.walk(folder_name):
+        for root, dirs, files in os.walk(folder_name):
             for f in files:
                 os.unlink(os.path.join(root, f))
 
@@ -476,7 +385,8 @@ if __name__ == "__main__":
                      clean=True)
         create_program(content['program'], **default_program_structure,
                        lc_time=args.lc_time)
-    else:
+
+    elif args.talks or args.speakers or args.rooms or args.create_files:
         # get default settings
         if args.talks:
             file_args = default_file_structure['talks']
@@ -505,27 +415,23 @@ if __name__ == "__main__":
         if args.clean:
             file_args['clean'] = args.clean
 
-        if args.talks or args.speakers or args.rooms or args.create_files:
-            keep_fields = file_attrs
-            keep_fields.append(file_args['file_content'])
+        content = parse_csv(args.file, file_attrs + file_args['file_content'])
+        if args.info:
+            content = extend_content(content, args.info)
 
-            content = parse_csv(args.file, keep_fields)
-            if args.info:
-                content = extend_content(content, args.info)
+        create_files(content, **file_args)
 
-            create_files(content, **file_args)
+    elif args.program:
+        # get default settings
+        program_args = default_program_structure
 
-        elif args.program:
-            # get default settings
-            program_args = default_program_structure
+        # overwrite default settings and/or define remaining settings
+        if args.file_path:
+            file_args['file_path'] = args.file_path
+        if args.data_format:
+            file_args['data_format'] = args.data_format
+        if args.lc_time:
+            file_args['lc_time'] = args.lc_times
 
-            # overwrite default settings and/or define remaining settings
-            if args.file_path:
-                file_args['file_path'] = args.file_path
-            if args.data_format:
-                file_args['data_format'] = args.data_format
-            if args.lc_time:
-                file_args['lc_time'] = args.lc_times
-
-            content = parse_csv(args.file)
-            create_program(content, **program_args)
+        content = parse_csv(args.file)
+        create_program(content, **program_args)

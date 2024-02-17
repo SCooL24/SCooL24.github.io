@@ -1,55 +1,32 @@
-// Libraries
-//   Bootstrap (Style Framework)
-{% include js/lib/jquery-3.5.1.min.js %}
-{% include js/lib/popper.min.js %}
-{% include js/lib/bootstrap.js %}
+// Global app variable
+window.conference = {};
 
-//   FontAwesome (Icons)
-//     Imported via CSS and webfonts
+// Bootstrap (Style Framework)
+{% include js/jquery-3.5.1.min.js %}
+{% include js/popper.min.js %}
+{% include js/bootstrap.js %}
 
-// Conference
-window.conference = {
-    config: {
-        baseurl: '{{ site.baseurl }}'
-    },
-
-    ready: false,
-    awaitReady: () => {
-        const poll = (resolve) => {
-            if(window.conference.ready === true) {
-                resolve();
-            }
-            else {
-                setTimeout(() => poll(resolve), 500);
-            }
-        }
-        return new Promise(poll);
-    }
-};
-
+// FontAwesome (Icons)
+//   Imported via CSS and webfonts
 
 // Program
-{% include js/lib/syncscroll.js %}
-{% include js/program.js %}
+{% include js/conference-program.js %}
 
 // Leaflet (Map Display)
 {% include partials/get_enable_map.html %}
 {% if enable_map %}
-    {%- include js/lib/leaflet.js %}
-    {%- include js/lib/leaflet-easybutton.js %}
-    {%- include js/lib/leaflet-locatecontrol.js %}
-    {%- include js/lib/leaflet-providers.js %}
+    {% include js/leaflet.js %}
+    {% include js/leaflet-easybutton.js %}
+    {% include js/leaflet-locatecontrol.js %}
+    {% include js/leaflet-providers.js %}
 
-    {%- include js/map.js %}
+    {% include js/conference-map.js %}
 {% endif %}
 
 // Modals ("Popups")
-{% include js/modal.js %}
+{% include js/conference-modal.js %}
 
 // Live and Streaming
 {% if site.conference.live %}
-    {%- include js/live.js %}
+    {% include js/conference-live.js %}
 {% endif %}
-
-// Load configuration and start initialization
-{% include js/init.js %}

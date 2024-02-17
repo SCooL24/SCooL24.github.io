@@ -1,0 +1,13 @@
+---
+name: Runtime monitoring for Hennessy-Milner logic with recursion over systems with data.
+speakers: Leo Exibard
+categories: Talk
+---
+Runtime verification consists in checking whether a program satisfies a given specification by observing the trace it produces during its execution. In the regular setting, Hennessy-Milner logic with recursion (recHML), a variant of the modal &mu;-calculus, provides a versatile back-end for expressing linear- and branching-time specifications. In this paper, we study an extension of this logic that allows to express properties over data values (i.e. values from an infinite domain) and examine which fragments can be verified at runtime. Data values are manipulated through first-order formulas over the underlying theory in modalities and through first-order quantification outside of them. They can also be stored using parameterised recursion variables.
+
+Assuming decidability of the underlying first-order theory, we study how to generalise the classification known in the regular case. We further observe that restricting quantifier-free formulas in the modalities yields a logic that corresponds to register automata with non-deterministic reassignment, allowing us to ground our monitor synthesis algorithms, in the spirit of, and to derive impossibility results. In particular, contrary to the regular case, restricting to deterministic monitors strictly reduces the set of monitorable properties. We also note that further limiting quantifications to immediate bindings, we get recHML<sup>d</sup>, a logic previously introduced for monitoring events that carry data.
+### References
+<ul>
+<li><span>Jan Friso Groote and Radu Mateescu, <em>Verification of Temporal Properties of Processes in a Setting with Data</em></span>, <span><strong><em>Proceedings of Algebraic Methodology and Software Technology, 7th International Conference, AMAST '98</em></strong></span>, LNCS vol. 1548, pp. 74–90.</li>
+<li><span>Luca Aceto, Ian Cassar, Adrian Francalanza and Anna Ing&oacute;lfsd&oacute;ttir, <em>On Runtime Enforcement via Suppressions</em></span>, <span><strong><em>Proceedings of the 29th International Conference on Concurrency Theory, CONCUR 2018</em></strong></span>, LIPIcs vol. 118, no. 34, pp. 1-17.</li>
+</ul>

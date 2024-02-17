@@ -1,5 +1,31 @@
-{%- if talk.hide -%}
-  {{ talk.name }}
+{%- unless talk.hide -%}
+<a class="text-reset" href="{{ talk.url | prepend: site.baseurl }}">
+{%- endunless -%}
+{%- if talk.pl -%}
+    {{ talk.title }}
+{%- elsif talk.tutorial -%}
+    Tutorial - {{ talk.title }}
+{%- elsif talk.ss -%}
+    {%- case talk.session -%}
+      {%- when "st" -%}
+        Set Theory
+      {%- when "pt" -%}
+        Proof Theory and Ordinal Analysis
+      {%- when "rm" -%}
+        Reverse Mathematics and Combinatorial Principles
+      {%- when "mt" -%}
+        Model Theory
+      {%- when "csl" -%}
+        Computer Science Logic 
+      {%- when "pm" -%}
+        Philosophy of Mathematics
+      {%- else -%}
+    {%- endcase -%}
+    &nbsp;- {{ talk.title }}
+
 {%- else -%}
-  <a class="text-reset" href="{{ talk.url | prepend: site.baseurl }}">{{ talk.name }}</a>
+    {{ talk.name }}
 {%- endif -%}
+{%- unless talk.hide -%}
+</a>
+{%- endunless -%}

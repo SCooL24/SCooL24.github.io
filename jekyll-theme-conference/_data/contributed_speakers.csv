@@ -1,0 +1,82 @@
+"Antonis Achilleos, Eleni Bakali, Aggeliki Chalki*, and Aris Pagourtzis",achalki@corelab.ntua.gr,Yes,,CS Logic,1,Descriptive complexity for hard counting problems with easy decision versions
+"Luca Aceto, Antonis Achilleos, Duncan Paul Attard, Leo Exibard*, Adrian Francalanza, Karolina Lehtinen",leoe@ru.is,Yes,,CS Logic,1,something with registers and monitors
+"Juan Pablo Aguilera, Martin Dieguez, David Fernandez-Duque, and Brett McLean*",brett.mclean@ugent.be,Yes,,CS Logic,1,Godel Temporal Logic
+Tin Adlesic and Vedran Cacic*,veky@math.hr,Yes,,Philosophy/NCL,2,Formalizing assignment of types to terms in NFU
+Tin Adlesic* and Vedran Cacic,tin.adlesic@ufzg.hr,Yes,,Set Theory,2,Tarski's theorem about choice and the alternative axiomatic extension of NFU.
+"Joni Puljujarvi, Davide Quadrellaro*",joni.puljujarvi@helsinki.fi and davide.quadrellaro@gmail.com,Yes,In the model theory folder -  ZC says not MT,Philosophy/NCL,2,Compactness and Types in Logics of Dependence.
+"Guillermo Badia*, Xavier Caicedo, and Carles Noguera",g.badia@uq.edu.au,No,,Philosophy/NCL,3,Frame definability in finitely-valued modal logic.
+Katalin Bimbó,bimbo@ualberta.ca,Yes,,Philosophy/NCL,3,Relational semantics for some classical relevance logics.
+Tinko Tinchev,tinko@fmi.uni-sofia.bg,Yes,also Computability!,Philosophy/NCL,3,Decidability of modal definability problem on the class of quasilinear frames.
+Mark Addis,mark.addis@open.ac.uk,No,,Philosophy/NCL,4,Categorical representation of discrete dynamical systems computability
+Jason Block,jblock@gradcenter.cuny.edu,Yes,,Computability,4,Categoricity ordinals and models of Presburger arithmetic
+Tapio Saarinen,tapio.saarinen@helsinki.fi,Yes,,Model Theory,4,The categoricity of complete theories in second-order logic.
+"Szymon Chlebowski*, Marta Gawek, and Agata Tomczyk",szymon.chlebowski@amu.edu.pl,Yes,,Philosophy/NCL,5,Propositional identity. From semantics to proof theory.
+Szymon Chlebowski and Patrycja Kups (speaker TBD),szymon.chlebowski@amu.edu.pl and patrycja.kups@amu.edu.pl,Yes,,Proof Theory,5,Meaning is Use: the Case of Propositional Identity.
+Vittorio Cipriani,cipriani.vittorio@spes.uniud.it,Yes,,Computability,6,Equivalence relations and learning of algebraic structures.
+"Tonicha Crook*, Jay Morgan, Markus Roggenbach, and Arno Pauly",t.m.crook15@outlook.com,Yes,,Computability,6,A computability perspective on veri_x000C_ed machine learning.
+Gihanee M. D. Senadheera,gihanee.s@siu.edu,No,,Computability,6,Effective Concept Classes of PAC and PACi Incomparable Degrees and Jump Structure.
+Fredrik Engstrom,fredrik.engstrom@gu.se,Yes,"M,T,W; could be various other topics",Philosophy/NCL,7,Foundations of team semantics.
+"Lauri Hella, Kerkko Luosto, and Jouko Väänänen*",jouko.vaananen@helsinki.fi,Yes,connection to set theory,CS Logic,7,Dimension in team semantics.
+Jan Hubicka,hubicka@kam.mff.cuni.cz,,,Set Theory,8,Big Ramsey degrees and trees with sucessor operation.
+Matej Konecny,matej@kam.mff.cuni.cz,Yes,connection to set theory,Model Theory,8,Big Ramsey degrees of unconstrained ω-categorical structures.
+Alexej Pynko,appynko@ukr.net,No,,Philosophy/NCL,9,Minimally n-valued maximally paraconsistent expansions of LP.
+"Alexej Pynko*, Gnat Rubko",appynko@ukr.net,No,,Philosophy/NCL,9,Paraconsistent extensions of three-valued logics.
+"Alexej Pynko*, Ira Sirko",appynko@ukr.net,No,,Philosophy/NCL,9,Extensions of paraconsistent three-valued chain logics.
+Francesco Gallinaro,mmfpg@leeds.ac.uk,Yes,,Model Theory,10,Exponential sums equations and tropical geometry.
+Asa Hirvonen and Joni Puljujarvi*,joni.puljujarvi@helsinki.fi,Yes,,Model Theory,10,Games and Scott sentences for positive distances between metric structures.
+Beibut Kulpeshov and Sergey Sudoplatov*,b.kulpeshov@kbtu.kz, sudoplat@math.nsc.ru,Yes,Model Theory,10,On theories of dense spherical orders.
+Bjarki Geir Benediktsson,bjarkigeir@fjarskiptastofa.is,Yes,,Model Theory,11,Stability of generalized Johnson graphs
+"Maira Kassymetova, Nazgul Shamatayeva, Olga Ulbrikht*, Aibat Yeshkeyev",ulbrikht@mail.ru,Not sure,,Model Theory,11,Properties of lattices of existential formulas of Jonsson beautiful pairs.
+Krzysztof Krupinski and Adrian Portillo*,adrian.portillo-fernandez@math.uni.wroc.pl,No,,Model Theory,11,On stable quotients.
+Anupam Das and Avgerinos Delkos*,a.das@bham.ac.uk and axd1010@bham.student.ac.uk,Yes,,CS Logic,12,Proof complexity of monotone branching programs.
+Christof Fetzer and Muhammad Usama Sardar*,muhammad_usama.sardar@tu-dresden.de,Yes,,CS Logic,12,
+"Ioana Leustean, Bogdan Macovei*",bogdan.macovei@unibuc.ro,No,,CS Logic,12,
+Bruno Bentzen,bbentzen@zju.edu.cn,No,,Philosophy/NCL,13,"Can propositions be intentions, intuitionistically?"
+Mattias Granberg Olsson* and Graham Leigh,mattias.granberg.olsson@gu.se,No,possibly Proof Theory?,Philosophy/NCL,13,Almost negative truth and fixpoints in intuitionistic logic.
+Iosif Petrakis,petrakis@math.lmu.de,No,,Proof Theory,13,Positive negation in constructive mathematics.
+Maria Beatrice Buonaguidi,maria.buonaguidi@kcl.ac.uk,No,,Philosophy/NCL,14,"Symmetry, locality and hyperintensionality"
+Petr Cintula,cintula@cs.cas.cz,Yes,Tuesday morning -  Arriving on 6/28 only -  might be CS logic,Philosophy/NCL,14,Abstract Lindenbaum lemma for non-finitary consequence relations.
+"José M. Méndez*, Gemma Robles, Francisco Salto",sefus@usal.es,No,could be Proof Theory,Philosophy/NCL,14,A class of implicative expansions of Belnap-Dunn logic in whose elements a Boolean negation is definable.
+Yong Cheng,world-cyr@hotmail.com,No,,Proof Theory,15,The relevance of the incompleteness theorems with Hilbert's concrete proof theory.
+Cezary Cieśliński,c.cieslinski@uw.edu.pl,Yes,,Proof Theory,15,Two halves of disjunctive correctness.
+Daichi Hayashi,d-hayashi@eis.hokudai.ac.jp,No,,Proof Theory,15,Reformulating supervaluational theory of truth.
+Ludovica Conti,ludoconti@gmail.com,No,,Philosophy/NCL,16,Arbitrary Abstraction and Logicality.
+Pablo Dopico,pablo.dopico@kcl.ac.uk,,,Philosophy/NCL,16,Truth-theoretic determinacy revisited.
+Michal Godziszewski,mtgodziszewski@gmail.com,No,,Philosophy/NCL,16,Between the Model-Theoretic and the Axiomatic Method of Characterizing Mathematical Truth
+Ze-Yuan Duan and Hsing-Chien Tsai*,pythc@ccu.edu.tw,Yes,connection to computability,Philosophy/NCL,17,1-Complete first-order mereological theories
+"David Fernández-Duque, Oriola Gjetaj*, and Andreas Weiermann",oriola.gjetaj@ugent.be,Yes,could be various other topics,Computability,17,Intermediate Goodstein principles.
+"Antonio Montalbán, Dino Rossegger*",drossegger@berkeley.edu,Yes,,Computability,17,The structural complexity of models of arithmetic.
+"David Fernández-Duque, Joost J. Joosten, and Konstantinos Papfilippou*",konstantinos.papafilippou@ugent.be,Yes,,Proof Theory,18,Hyperarithmetical Worm Battles
+Andrzej Indrzejczak and Patrycja Kupś (speaker TBD),patrycja.kups@amu.edu.pl and andrzej.indrzejczak@uni.lodz.pl,Yes,,Proof Theory,18,Methods of modelling linear time in hypersequent calculus.
+Philipp Provenzano,pprovenzano@web.de,Yes,,Proof Theory,18,The reverse mathematical strength of hyperations.
+Elio La Rosa,lrslei@gmail.com,Yes,,Proof Theory,19,Normalization for epsilon calculus.
+"Luiz Carlos Pereira, Elaine Pimentel*",luiz@inf.puc-rio.br and e.pimentel@ucl.ac.uk,No,,Proof Theory,19,On an ecumenical natural deduction with stoup.
+Andrei Sipos,andrei.sipos@fmi.unibuc.ro,Yes,,Proof Theory,19,On extracting variable Herbrand disjunctions.
+Peter Koepke,koepke@math.uni-bonn.de,Yes,,Set Theory,20,Formalizing the Appendix of Kelley's General Topology in the Naproche Proof Checker.
+Maxwell Levine,maxwell.levine@mathematik.uni-freiburg.de,,,Set Theory,20,Unthreadability at @2 (aleph 2).
+Richard Matthews,r.m.a.matthews@leeds.ac.uk,Yes,,Set Theory,20,Removing Reinhardt's replacement.
+Katarzyna W. Kowalik,katarzyna.kowalik@mimuw.edu.pl,Yes,,Computability,21,A non speed-up result for the chain-antichain principle over a weak base theory.
+Sam Sanders,sasander@me.com,No,,Computability,21,Two computational clusters in ordinary mathematics.
+Patrick Uftring,uftring@mathematik.tu-darmstadt.de,Yes,,Computability,21,Weak and strong versions of efective transfinite recursion.
+Yurii Khomskii and Hrafn Oddsson*,hrafnv@hotmail.com,Yes,paraconsistent set theory,Philosophy/NCL,22,
+Ioannis Souldatos,souldatos@math.auth.gr,No,,Set Theory,22,Characterizing Cardinals by Lomega-sentences in an Absolute Way.
+Agnieszka Widz,agnieszka.widz@dokt.p.lodz.pl,Yes,,Set Theory,22,What are magic sets?.
+Philipp Schlicht,philipp.schlicht@bristol.ac.uk, pschlicht@gmail.com,Not sure,Set Theory,23,Countable ranks at the _x000C_rst and second projective levels.
+Dorottya Sziraki,dsziraki@renyi.hu,No,,Set Theory,23,Applications of the open dihypergraph dichotomy for generalized Baire spaces.
+Hafiz Ullah,hafizwazir33@gmail.com,Yes,really topology?,Set Theory,23,Weakly Menger Ditopological Texture Spaces
+Beibut Kulpeshov* and Sergey Sudoplatov,b.kulpeshov@kbtu.kz, sudoplat@math.nsc.ru,No,Model Theory,24,On algebras of binary formulas for weakly circularly minimal theories.
+Gabor Sagi,sagi@renyi.hu,Yes,,Model Theory,24,Automorphism invariant measures on some structures and on their automorphism groups.
+Kentaro Yamamoto,yamamoto@cs.cas.cz,Yes,MTW,Model Theory,24,The strong small index property for the Fraisse limit of finite Heyting algebras
+Amir Djamel Eddine* and Mathieu Hoyrup,djamel-eddine.amir@loria.fr,Yes,,Computability,25,
+Will Stafford,stafford@flu.cas.cz, willbstafford@outlook.com,Yes,Proof Theory,25,Compositional proof-theoretic semantics for natural language.
+Andreas Weiermann,andreas.weiermann@ugent.be,Yes,,Proof Theory,25,The phase transition for Harvey Friedman’s monotone Bolzano Weierstrass principle.
+"Michal Godziszewski*, L Harrington, and T Slaman",mtgodziszewski@gmail.com,No,,Computability,26,
+"Nazerke Mussina*, Olga Ulbrikht, Aibat Yeshkeyev",nazerke170493@mail.ru,Yes,,Model Theory,26,Syntactic and semantic similarities of hybrids of classes of the Jonsson spectrum of Jonsson quasivariety of the class K.
+Sebastian G.W. Speitel,sgwspeitel@uni-bonn.de,No,some model theory,Philosophy/NCL,26,Arithmetic via Carnap-categoricity.
+Jonas Rafael Becker Arenhart and Hitoshi Omori*,jonas.arenhart@ufsc.br and hitoshi.omori@rub.de,Yes,,Philosophy/NCL,27,
+"Mateusz Lelyk*, Bartosz Wcislo",mlelyk@uw.edu.pl,No,ZC: not model theory,Model Theory,27,
+Gemma Robles,gemma.robles@unileon.es,No,,Philosophy/NCL,27,The logic E-Mingle and its Routley-Meyer semantics.
+Jonathan Schilhan,j.schilhan@uea.ac.uk,Yes,,Set Theory,28,Forcing without AC and the Axiom of Dependent Choice
+Agata Tomczyk,agata.tomczyk@amu.edu.pl,Yes,,Proof Theory,28,Sequent Calculus for non-Fregean Boolean theory WB.
+Cheng-Syuan Wan,cswan@cs.ioc.ee,Yes,,Proof Theory,28,Proof Theory of Skew Non-Commutative MILL.
+Name,Email,Presence,Notes,Theme,Group,Title

@@ -145,12 +145,12 @@ main.container img {
 
     // Width of columns with content (default)
     width: 245px;
-    min-width: 245px;
+    min-width: 100px;
 
     // Spacing between columns
     &.col-space {
       width: 15px;
-      min-width: 15px;
+      min-width: 10px;
     }
     // Width of first column containing timestamps
     &.col-title {

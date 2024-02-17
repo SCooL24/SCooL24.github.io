@@ -1,25 +1,656 @@
 days:
 - name: Monday
   abbr: Mo
-  date: 2020-01-31
+  date: 2022-06-27
   rooms:
-  - name: Room A
+  - name: Main - M101
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
-        time_start: '12:00'
-        time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
-        time_start: '12:45'
-        time_end: '13:30'
-
-  - name: Room B
+      - name: Morning Coffee
+        time_start: '08:30'
+        time_end: '08:50'
+      - name: Welcome
+        time_start: '08:50'
+        time_end: '09:00'
+      - name: Plenary Talk - Point
+        time_start: '09:00'
+        time_end: '10:00'
+      - name: Coffee Break
+        time_start: '10:00'
+        time_end: '10:20'
+      - name: Plenary Talk - Melnikov
+        time_start: '10:20'
+        time_end: '11:20'
+      - name: Coffee Break
+        time_start: '11:20'
+        time_end: '11:30'
+      - name: Plenary Talk - Kennedy
+        time_start: '11:30'
+        time_end: '12:30'
+      - name: Lunch Break
+        time_start: '12:30'
+        time_end: '14:00'
+      - name: Welcome Reception
+        time_start: '17:30'
+        time_end: '18:30'
+  - name: M208
     talks:
-      - name: Arcu Non Odio
-        time_start: '12:00'
-        time_end: '13:00'
-
-  - name: Room C
-    talks:
-      - name: Eu Nisl Nunc Mi Ipsum Faucibus
-        time_start: '13:30'
+      # - name: Special Session - Model Theory
+      #   time_start: '14:00'
+      #   time_end: '17:45'
+      - name: Special Session - Kruckman
+        time_start: '14:00'
         time_end: '14:30'
+      - name: Special Session - Dobrowolski
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: Coffee Break
+        time_start: '15:00'
+        time_end: '15:20'
+      - name: Special Session - Vicaria
+        time_start: '15:20'
+        time_end: '15:50'
+      - name: Special Session - Braunfeld
+        time_start: '15:50'
+        time_end: '16:20'
+      - name: Coffee Break
+        time_start: '16:20'
+        time_end: '16:30'
+      - name: Special Session - Anscombe
+        time_start: '16:30'
+        time_end: '17:00'
+      - name: Special Session - Zou
+        time_start: '17:00'
+        time_end: '17:30'
+  - name: M209
+    talks:
+      - name: Special Session - Wang
+        time_start: '14:00'
+        time_end: '14:30'
+      - name: Special Session - Hirschfeldt
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: Coffee Break
+        time_start: '15:00'
+        time_end: '15:20'
+      - name: Special Session - Soldà
+        time_start: '15:20'
+        time_end: '15:50'
+      - name: Special Session - Kowalik
+        time_start: '15:50'
+        time_end: '16:20'
+      - name: Coffee Break
+        time_start: '16:20'
+        time_end: '16:30'
+      - name: Special Session - Conidis
+        time_start: '16:30'
+        time_end: '17:00'
+      - name: Special Session - Liao
+        time_start: '17:00'
+        time_end: '17:30'
+
+- name: Tuesday
+  abbr: Tue
+  date: 2022-06-28
+  rooms:
+  - name: Main - M101
+    talks:
+      - name: Morning Coffee
+        time_start: '08:30'
+        time_end: '09:00'
+      - name: Gödel Lecture - Patricia Blanchette
+        time_start: '09:00'
+        time_end: '10:00'
+      - name: Coffee Break
+        time_start: '10:00'
+        time_end: '10:20'
+      - name: Plenary Talk - Freund
+        time_start: '10:20'
+        time_end: '11:20'
+      - name: Coffee Break
+        time_start: '11:20'
+        time_end: '11:30'
+      - name: Lunch Break
+        time_start: '12:30'
+        time_end: '14:00'
+      # - name: Plenary Talk - Kennedy
+      #   time_start: '14:00'
+      #   time_end: '15:00'
+  - name: M208
+    talks:
+        # 14,19,21,26,8
+      - name: Abstract Lindenbaum lemma for non-finitary consequence relations.
+        time_start: '11:30'
+        time_end: '11:50'
+      - name: Symmetry, locality and hyperintensionality
+        time_start: '11:50'
+        time_end: '12:10'
+      - name: A class of implicative expansions of Belnap-Dunn logic in whose elements a Boolean negation is definable.
+        time_start: '12:10'
+        time_end: '12:30'
+      - name: Special Session - Halimi
+        time_start: '14:00'
+        time_end: '14:30'
+      - name: Special Session - Crosilla
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: Coffee Break
+        time_start: '15:00'
+        time_end: '15:20'
+      - name: Special Session - Florio
+        time_start: '15:20'
+        time_end: '15:50'
+      - name: Special Session - Button
+        time_start: '15:50'
+        time_end: '16:20'
+  - name: M209
+    talks:
+        # 19
+      - name: Normalization for epsilon calculus.
+        time_start: '11:30'
+        time_end: '11:50'
+      - name: On an ecumenical natural deduction with stoup.
+        time_start: '11:50'
+        time_end: '12:10'
+      - name: On extracting variable Herbrand disjunctions.
+        time_start: '12:10'
+        time_end: '12:30'
+      - name: Special Session - Afshari
+        time_start: '14:00'
+        time_end: '14:30'
+      - name: Special Session - Fernandez-Duque
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: Coffee Break
+        time_start: '15:00'
+        time_end: '15:20'
+      - name: Special Session - Jaeger
+        time_start: '15:20'
+        time_end: '15:50'
+      - name: Special Session - Wilken
+        time_start: '15:50'
+        time_end: '16:20'
+      - name: Coffee Break
+        time_start: '16:20'
+        time_end: '16:30'
+      - name: Special Session - Aguilera
+        time_start: '16:30'
+        time_end: '17:00'
+      - name: Special Session - Matthews
+        time_start: '17:00'
+        time_end: '17:30'
+  - name: M103
+    talks:
+      #21
+      # Special Session speaker
+      # - name: A non speed-up result for the chain-antichain principle over a weak base theory.
+      #   time_start: '11:45'
+      #   time_end: '12:05'
+      - name: Two computational clusters in ordinary mathematics.
+        time_start: '11:50'
+        time_end: '12:10'
+      - name: Weak and strong versions of effective transfinite recursion.
+        time_start: '12:10'
+        time_end: '12:30'
+  - name: M104
+    talks:
+      #26
+      - name: Tennebaum’s Theorem for quotient presentations of nonstandard models of arithmetic
+        time_start: '11:30'
+        time_end: '11:50'
+      - name: On stable quotients.
+        time_start: '11:50'
+        time_end: '12:10'
+      - name: Arithmetic via Carnap-categoricity.
+        time_start: '12:10'
+        time_end: '12:30'
+  - name: M105
+    talks:
+      #8
+      - name: Big Ramsey degrees of unconstrained ω-categorical structures.
+        time_start: '11:30'
+        time_end: '11:50'
+      - name: Big Ramsey degrees and trees with sucessor operation.
+        time_start: '11:50'
+        time_end: '12:10'
+      - name: Weakly Menger Ditopological Texture Spaces
+        time_start: '12:10'
+        time_end: '12:30'
+
+- name: Wednesday
+  abbr: Wed
+  date: 2022-06-29
+  rooms:
+  - name: Main - M101
+    talks:
+      - name: Morning Coffee
+        time_start: '08:30'
+        time_end: '09:00'
+      - name: Plenary Talk - Fuchs
+        time_start: '09:00'
+        time_end: '10:00'
+      - name: Coffee Break
+        time_start: '10:00'
+        time_end: '10:20'
+      - name: Plenary Talk - Idziak
+        time_start: '10:20'
+        time_end: '11:20'
+      - name: Coffee Break
+        time_start: '11:20'
+        time_end: '11:30'
+      - name: Lunch Break
+        time_start: '12:30'
+        time_end: '14:00'
+      - name: Dinner
+        time_start: '19:00'
+        time_end: '22:00'
+  - name: M208
+    talks:
+      - name: Special Session - De Bondt
+        time_start: '11:30'
+        time_end: '12:00'
+      - name: Special Session - Sobota
+        time_start: '12:00'
+        time_end: '12:30'
+      - name: Special Session - Montoya
+        time_start: '14:00'
+        time_end: '14:30'
+      - name: Special Session - Zhang
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: Coffee Break
+        time_start: '15:00'
+        time_end: '15:20'
+      - name: Special Session - Müller
+        time_start: '15:20'
+        time_end: '15:50'
+      - name: Special Session - Daniells Gilton
+        time_start: '15:50'
+        time_end: '16:20'
+      - name: Coffee Break
+        time_start: '16:20'
+        time_end: '16:30'
+      # 6,7,20,24,25
+      - name: Equivalence relations and learning of algebraic structures.
+        time_start: '16:30'
+        time_end: '16:50'
+      - name: A computability perspective on verified machine learning.
+        time_start: '16:50'
+        time_end: '17:10'
+      - name: Effective Concept Classes of PAC and PACi Incomparable Degrees and Jump Structure.
+        time_start: '17:10'
+        time_end: '17:30'
+  - name: M209
+    talks:
+      - name: Special Session - Mogavero
+        time_start: '11:30'
+        time_end: '12:00'
+      - name: Special Session - Saurin
+        time_start: '12:00'
+        time_end: '12:30'
+      - name: Special Session - Ramanayake
+        time_start: '14:00'
+        time_end: '14:30'
+      - name: Special Session - Altenkirch
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: Coffee Break
+        time_start: '15:00'
+        time_end: '15:20'
+      - name: Special Session - de Rezende
+        time_start: '15:20'
+        time_end: '15:50'
+      - name: Special Session - Ochremiak
+        time_start: '15:50'
+        time_end: '16:20'
+      # Coffee Break
+      - name: Coffee Break
+        time_start: '16:20'
+        time_end: '16:30'
+      # 7
+      - name: Foundations of team semantics.
+        time_start: '16:30'
+        time_end: '16:50'
+      - name: Dimension in team semantics.
+        time_start: '16:50'
+        time_end: '17:10'
+      - name: The logic E-Mingle and its Routley-Meyer semantics.
+        time_start: '17:10'
+        time_end: '17:30'
+  - name: M103
+    talks:
+      # 20
+      - name: Formalizing the Appendix of Kelley's General Topology in the Naproche Proof Checker.
+        time_start: '16:30'
+        time_end: '16:50'
+      - name: Unthreadability at aleph2.
+        time_start: '16:50'
+        time_end: '17:10'
+      - name: The phase transition for Harvey Friedman’s monotone Bolzano Weierstrass principle.
+        time_start: '17:10'
+        time_end: '17:30'
+  - name: M104
+    talks:
+      # 24
+      - name: On algebras of binary formulas for weakly circularly minimal theories.
+        time_start: '16:30'
+        time_end: '16:50'
+      - name: Automorphism invariant measures on some structures and on their automorphism groups.
+        time_start: '16:50'
+        time_end: '17:10'
+      - name: The strong small index property for the Fraisse limit of finite Heyting algebras
+        time_start: '17:10'
+        time_end: '17:30'
+  - name: M105
+    talks:
+      # 5
+      - name: Propositional identity. From semantics to proof theory.
+        time_start: '16:30'
+        time_end: '16:50'
+      - name: Meaning is Use - the Case of Propositional Identity.
+        time_start: '16:50'
+        time_end: '17:10'
+      - name: Methods of modelling linear time in hypersequent calculus.
+        time_start: '17:10'
+        time_end: '17:30'
+
+- name: Thursday
+  abbr: Thu
+  date: 2022-06-30
+  rooms:
+  - name: Main - M101
+    talks:
+      - name: Morning Coffee
+        time_start: '08:30'
+        time_end: '09:00'
+      - name: Plenary Talk - Pakhomov
+        time_start: '09:00'
+        time_end: '10:00'
+      - name: Coffee Break
+        time_start: '10:00'
+        time_end: '10:20'
+      - name: Plenary Talk - Müller
+        time_start: '10:20'
+        time_end: '11:20'
+      - name: Coffee Break
+        time_start: '11:20'
+        time_end: '11:30'
+      - name: Lunch Break
+        time_start: '12:30'
+        time_end: '14:00'
+      - name: Tutorial - San Mauro
+        time_start: '14:00'
+        time_end: '15:30'
+      - name: Coffee Break
+        time_start: '15:30'
+        time_end: '15:50'
+      - name: Tutorial - Barto
+        time_start: '15:50'
+        time_end: '17:20'
+  - name: M208
+    talks:
+      # 1,11,18,13,3
+      - name: Descriptive complexity for hard counting problems with easy decision versions
+        time_start: '11:30'
+        time_end: '11:50'
+      - name: Runtime monitoring for Hennessy-Milner logic with recursion over systems with data
+        time_start: '11:50'
+        time_end: '12:10'
+      - name: Gödel Temporal Logic
+        time_start: '12:10'
+        time_end: '12:30'
+  - name: M209
+    talks:
+      # 11
+      - name: Stability of generalized Johnson graphs
+        time_start: '11:30'
+        time_end: '11:50'
+      - name: Properties of lattices of existential formulas of Jonsson beautiful pairs.
+        time_start: '11:50'
+        time_end: '12:10'
+      - name: Syntactic and semantic similarities of hybrids of classes of the Jonsson spectrum of Jonsson quasivariety of the class K.
+        time_start: '12:10'
+        time_end: '12:30'
+  - name: M103
+    talks:
+      # 18
+      - name: Hyperarithmetical Worm Battles
+        time_start: '11:30'
+        time_end: '11:50'
+      - name: Proof Theory of Skew Non-Commutative MILL.
+        time_start: '11:50'
+        time_end: '12:10'
+      - name: The reverse mathematical strength of hyperations.
+        time_start: '12:10'
+        time_end: '12:30'
+  - name: V102 [M104]
+    talks:
+      # 13
+      - name: Can propositions be intentions, intuitionistically?
+        time_start: '11:30'
+        time_end: '11:50'
+      - name: Almost negative truth and fixpoints in intuitionistic logic.
+        time_start: '11:50'
+        time_end: '12:10'
+      - name: Positive negation in constructive mathematics.
+        time_start: '12:10'
+        time_end: '12:30'
+  - name: M101 [M105]
+    talks:
+      # 3
+      - name: Frame definability in finitely-valued modal logic.
+        time_start: '11:30'
+        time_end: '11:50'
+      - name: Relational semantics for some classical relevance logics.
+        time_start: '11:50'
+        time_end: '12:10'
+      - name: Decidability of modal definability problem on the class of quasilinear frames.
+        time_start: '12:10'
+        time_end: '12:30'
+
+- name: Friday
+  abbr: Fri
+  date: 2022-07-01
+  rooms:
+  - name: Main - M101
+    talks:
+      - name: Morning Coffee
+        time_start: '08:30'
+        time_end: '09:00'
+      - name: Plenary Talk - Vaccaro
+        time_start: '09:00'
+        time_end: '10:00'
+      - name: Coffee Break
+        time_start: '10:00'
+        time_end: '10:20'
+      - name: Plenary Talk - Altinel
+        time_start: '10:20'
+        time_end: '11:20'
+      - name: Coffee Break
+        time_start: '11:20'
+        time_end: '11:30'
+      - name: Plenary Talk - Lange
+        time_start: '11:30'
+        time_end: '12:30'
+      - name: Lunch Break
+        time_start: '12:30'
+        time_end: '14:00'
+  - name: M208
+    talks:
+      #TODO: 7 is twice: replace with 27
+      # 10
+      - name: Exponential sums equations and tropical geometry.
+        time_start: '14:00'
+        time_end: '14:20'
+      - name: Games and Scott sentences for positive distances between metric structures.
+        time_start: '14:20'
+        time_end: '14:40'
+      - name: On theories of dense spherical orders.
+        time_start: '14:40'
+        time_end: '15:00'
+      # Coffee Break
+      - name: Coffee Break
+        time_start: '15:00'
+        time_end: '15:20'
+      # 4
+      - name: Categorical representation of discrete dynamical systems computability
+        time_start: '15:20'
+        time_end: '15:40'
+      - name: Categoricity ordinals and models of Presburger arithmetic
+        time_start: '15:40'
+        time_end: '16:00'
+      - name: The categoricity of complete theories in second-order logic.
+        time_start: '16:00'
+        time_end: '16:20'
+      # Coffee Break
+      - name: Coffee Break
+        time_start: '16:20'
+        time_end: '16:30'
+      # 7
+      - name: More on Constructive Nonsense Logic
+        time_start: '16:30'
+        time_end: '16:50'
+      - name: Model-theoretical characterizations of truth
+        time_start: '16:50'
+        time_end: '17:10'
+      - name: Compositional proof-theoretic semantics for natural language.
+        time_start: '17:10'
+        time_end: '17:30'
+  - name: M209
+    talks:
+      # 16
+      - name: Arbitrary Abstraction and Logicality.
+        time_start: '14:00'
+        time_end: '14:20'
+      - name: Truth-theoretic determinacy revisited.
+        time_start: '14:20'
+        time_end: '14:40'
+      - name: Between the Model-Theoretic and the Axiomatic Method of Characterizing Mathematical Truth
+        time_start: '14:40'
+        time_end: '15:00'
+      # Coffee Break
+      - name: Coffee Break
+        time_start: '15:00'
+        time_end: '15:20'
+      # 15
+      - name: The relevance of the incompleteness theorems with Hilbert's concrete proof theory.
+        time_start: '15:20'
+        time_end: '15:40'
+      - name: Two halves of disjunctive correctness.
+        time_start: '15:40'
+        time_end: '16:00'
+      - name: Reformulating supervaluational theory of truth.
+        time_start: '16:00'
+        time_end: '16:20'
+      # Coffee Break
+      - name: Coffee Break
+        time_start: '16:20'
+        time_end: '16:30'
+      # 28
+      - name: Forcing without AC and the Axiom of Dependent Choice
+        time_start: '16:30'
+        time_end: '16:50'
+      - name: Sequent Calculus for non-Fregean Boolean theory WB.
+        time_start: '16:50'
+        time_end: '17:10'
+  - name: M101 [M103]
+    talks:
+      # 17
+      - name: 1-Complete first-order mereological theories
+        time_start: '14:00'
+        time_end: '14:20'
+      - name: Intermediate Goodstein principles.
+        time_start: '14:20'
+        time_end: '14:40'
+      - name: The structural complexity of models of arithmetic.
+        time_start: '14:40'
+        time_end: '15:00'
+      # Coffee Break
+      - name: Coffee Break
+        time_start: '15:00'
+        time_end: '15:20'
+      # 2
+      - name: Formalizing assignment of types to terms in NFU
+        time_start: '15:20'
+        time_end: '15:40'
+      - name: Tarski's theorem about choice and the alternative axiomatic extension of NFU.
+        time_start: '15:40'
+        time_end: '16:00'
+      - name: Compactness and Types in Logics of Dependence.
+        time_start: '16:00'
+        time_end: '16:20'
+      # Coffee Break
+      - name: Coffee Break
+        time_start: '16:20'
+        time_end: '16:30'
+      # 23
+      - name: Countable ranks at the first and second projective levels.
+        time_start: '16:30'
+        time_end: '16:50'
+      - name: Applications of the open dihypergraph dichotomy for generalized Baire spaces.
+        time_start: '16:50'
+        time_end: '17:10'
+      - name: Computability of finite simplicial complexes and homology
+        time_start: '17:10'
+        time_end: '17:30'
+  - name: V102 [M104]
+    talks:
+      # 9
+      - name: Minimally n-valued maximally paraconsistent expansions of LP.
+        time_start: '14:00'
+        time_end: '14:20'
+      - name: Paraconsistent extensions of three-valued logics.
+        time_start: '14:20'
+        time_end: '14:40'
+      - name: Extensions of paraconsistent three-valued chain logics.
+        time_start: '14:40'
+        time_end: '15:00'
+      # Coffee Break
+      - name: Coffee Break
+        time_start: '15:00'
+        time_end: '15:20'
+      # 12
+      - name: Proof complexity of monotone branching programs.
+        time_start: '15:20'
+        time_end: '15:40'
+      - name: Understanding trust assumptions for remote attestation via formal verification
+        time_start: '15:40'
+        time_end: '16:00'
+      - name: Fully Certified Dynamic Epistemic Logic for Security Protocols
+        time_start: '16:00'
+        time_end: '16:20'
+      # Coffee Break
+      - name: Coffee Break
+        time_start: '16:20'
+        time_end: '16:30'
+      # 22
+      - name: Paraconsistent and paracomplete Zermelo-Fraenkel set theory
+        time_start: '16:30'
+        time_end: '16:50'
+      - name: Characterizing Cardinals by Lomega-sentences in an Absolute Way.
+        time_start: '16:50'
+        time_end: '17:10'
+      - name: What are magic sets?
+        time_start: '17:10'
+        time_end: '17:30'
+
+
+
+
+
+
+
+      # - name: Condimentum Vitae Sapien Pellentesque
+      #   time_start: '12:45'
+      #   time_end: '13:30'
+
+  # - name: Room B
+  #   talks:
+  #     - name: Arcu Non Odio
+  #       time_start: '12:00'
+  #       time_end: '13:00'
+
+  # - name: Room C
+  #   talks:
+  #     - name: Eu Nisl Nunc Mi Ipsum Faucibus
+  #       time_start: '13:30'
+  #       time_end: '14:30'

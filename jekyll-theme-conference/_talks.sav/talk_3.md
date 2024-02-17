@@ -1,0 +1,9 @@
+---
+name: Formalizing assignment of types to terms in NFU
+title: Formalizing assignment of types to terms in NFU
+speakers: Vedran Cacic
+categories: Talk
+abstract: /ct/Cacic.pdf
+---
+<p>Quine’s <em>New Foundations for mathematical logic</em> from 1937 (upgraded later in 1951) was originally meant as a theory for rigorously formalizing <em>classes</em>: collections of objects satisfying certain predicates. In order to avoid the usual paradoxes, Quine stipulated that objects be <em>stratified</em>—divided according to types, so that a class is of a higher type than its elements. In search of consistency proof,  proper classes were expelled (to metatheory) leaving only the theory of <em>sets</em>, the theory was reworded so  stratification became <em>syntactic</em> (the assignment of natural numbers to variables in the formula expressing the defining predicate), and also  <em>urelements</em> (“atoms” without elements, while not being equal to the empty class) were added. The resulting theory, <span class="sans-serif">NFU</span>, was shown to be consistent by Jensen in 1969.</p>
+<p>In a way, working in <span class="sans-serif">NFU</span> seems a lot like working in any “usual” set theory—until it comes to the point where it’s necessary to justify the existence of a certain set. And there are a lot of such situations: for example, proving a claim by mathematical induction amounts to showing that a certain set is inductive—but first we must ensure it is a set. Checking that a formula is stratified is a straightforward, if boring, task in the basic <span class="math inline">{∈, = }</span>-language of set theory, but it becomes much more challenging when we add abstraction terms, functional and new relational symbols. To help us work, we have programmed a framework in Coq which can be used to establish whether the formula is stratified, find the <em>least</em> typization, and use that fact in establishing new notions.</p>
