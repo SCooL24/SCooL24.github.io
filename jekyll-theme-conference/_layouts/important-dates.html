@@ -1,0 +1,23 @@
+{% include partials/header.html %}
+
+  <h1 class="display-5 mb-4">
+    {% if page.title %}
+      {{ page.title }}
+    {% else %}
+      {{ site.data.lang[site.conference.lang].important_dates | default: "Important Dates" }}
+    {% endif %}
+  </h1>
+
+  {{ content }}
+
+  <div>
+    <ul class="list-unstyled">
+    {% for date in site.conference.important_dates %}
+      <li class="font-weight-light">
+        {{ date.name }}: {{ date.time }}
+      </li>
+    {% endfor %}
+      </ul>
+  </div>
+
+{% include partials/footer.html %}

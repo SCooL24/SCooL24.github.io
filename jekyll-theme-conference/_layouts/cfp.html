@@ -1,0 +1,13 @@
+{% include partials/header.html %}
+
+<h1 class="display-5 mb-4">
+    {% if page.title %}
+    {{ page.title }}
+    {% else %}
+    {{ site.data.lang[site.conference.lang].cfp | default: "Call for Papers" }}
+    {% endif %}
+</h1>
+
+{{ content }}
+
+{% include partials/footer.html %}

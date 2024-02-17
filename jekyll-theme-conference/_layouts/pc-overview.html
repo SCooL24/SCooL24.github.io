@@ -1,0 +1,28 @@
+{% include partials/header.html %}
+
+  <h1 class="display-5 mb-4">
+    {% if page.title %}
+      {{ page.title }}
+    {% else %}
+      {{ site.data.lang[site.conference.lang].pc.overview | default: "Program Committee" }}
+    {% endif %}
+  </h1>
+
+  {{ content }}
+
+  <div class="pclist">
+    {% assign pcs = site.pc | sort_natural: 'last_name' %}
+    <ul class="list-unstyled">
+    {% for pc in pcs %}
+      <li class="font-weight-light">
+        {% if pc.hide %}
+          {{ pc.first_name }} {{ pc.last_name }}
+        {% else %}
+          <a href="{{ pc.webpage }}">{{ pc.first_name }} {{ pc.last_name }}</a>, {{ pc.affiliation }}
+        {% endif %}
+      </li>
+    {% endfor %}
+      </ul>
+  </div>
+
+{% include partials/footer.html %}

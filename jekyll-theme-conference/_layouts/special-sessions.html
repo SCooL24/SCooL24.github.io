@@ -1,0 +1,39 @@
+{% include partials/header.html %}
+
+<h1 class="display-5 mb-4">
+    {% if page.title %}
+    {{ page.title }}
+    {% else %}
+    {{ site.data.lang[site.conference.lang].sc.overview | default: "Special Sessions" }}
+    {% endif %}
+</h1>
+
+{{ content }}
+
+{% for sc in site.conference.special_sessions %}
+<h2> {{sc.name}} </h2>
+<h6> Organisers <h6>
+<div class="pclist">
+    {% assign orgs = site.sc | where: 'organiser', sc.keyword %}
+    <ul class="list-unstyled">
+        {% for org in orgs %}
+        <li class="font-weight-light">
+            <a href="{{ org.webpage }}">{{ org.first_name }} {{ org.last_name }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+<h6> Speakers <h6>
+    <div class="pclist">
+        {% assign scsps = site.sc | where: 'session', sc.keyword %}
+        <ul class="list-unstyled">
+            {% for scsp in scsps %}
+            <li class="font-weight-light">
+                <a href="{{ scsp.webpage }}">{{ scsp.first_name }} {{ scsp.last_name }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endfor %}
+
+{% include partials/footer.html %}

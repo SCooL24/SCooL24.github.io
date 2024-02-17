@@ -1,0 +1,37 @@
+{% include partials/header.html %}
+
+<h1 class="display-5 mb-4">
+    {% if page.title %}
+    {{ page.title }}
+    {% else %}
+    {{ site.data.lang[site.conference.lang].fees | default: "Registration fees" }}
+    {% endif %}
+</h1>
+
+{{ content }}
+
+<h2> Early </h2>
+<h6> (until the 1<sup>st</sup> of June) </h6>
+<div>
+    <ul class="list-unstyled">
+        {% for early_fee in site.conference.early_fees %}
+        <li class="font-weight-light">
+            {{ early_fee.name }} registration fee: {{ early_fee.amount }} EUR
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<h2> Late </h2>
+<h6> (from the 2<sup>nd</sup> of June) </h6>
+<div>
+    <ul class="list-unstyled">
+        {% for late_fee in site.conference.late_fees %}
+        <li class="font-weight-light">
+            {{ late_fee.name }} registration fee: {{ late_fee.amount }} EUR
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+{% include partials/footer.html %}

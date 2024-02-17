@@ -1,0 +1,33 @@
+{% include partials/header.html %}
+
+<h1 class="display-5 mb-4">
+    {% if page.title %}
+    {{ page.title }}
+    {% else %}
+    {{ site.data.lang[site.conference.lang].sc.overview | default: "Plenary Speakers" }}
+    {% endif %}
+</h1>
+
+{{ content }}
+
+{% for pl in site.conference.plenary %}
+<h2> {{pl.name}} </h2>
+<div class="pclist">
+    {% assign pls = site.pl | where: 'session', pl.keyword | sort: "last_name" %}
+    <ul class="list-unstyled">
+        {% for ps in pls %}
+        <li class="font-weight-light">
+            <a href="{{ ps.webpage }}">{{ ps.first_name }} {{ ps.last_name }}</a>
+            {% if ps.tutorial %}
+            (tutorial)
+            {% endif %}
+            {% if ps.godel %}
+            (G&ouml;del Lecture)
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endfor %}
+
+{% include partials/footer.html %}
