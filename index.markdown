@@ -12,11 +12,5 @@ title: First Reykjavik Summer of Cool Logic 2024 (SCooL 2024)
 
 The event is supported by:
 
-![alt text for screen readers](img/Reykjavik_University_Logo.svg.PNG){:height="100px" width="100px"}&nbsp;&nbsp;&nbsp;&nbsp;
-![alt text for screen readers](img/Association_for_Symbolic_Logic_Logo.svg.PNG){:height="100px" width="100px"}
-
-
-
-
-
-
+![alt text for screen readers](img/Reykjavik_University_Logo.svg.png){:height="100px" width="100px"}&nbsp;&nbsp;&nbsp;&nbsp;
+![alt text for screen readers](img/Association_for_Symbolic_Logic_Logo.svg.png){:height="100px" width="100px"}

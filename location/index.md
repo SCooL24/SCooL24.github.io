@@ -4,12 +4,6 @@ layout: location
 
 The meeting will be held at the premises of <a href="https://www.ru.is/">Reykjavik University</a> (map below), close to the city center of Reykjavik (Iceland), hosted by the <a href = "http://icetcs.ru.is/">ICE-TCS research center</a> of the Department of Computer Science.
 
-## No entry restrictions due to Covid
-
-Iceland lifted all entry restrictions related to Covid. Since the situation might still evolve, visit <a href = "https://island.is/en/p/entry">island.is</a> to get the latest instructions.
-
-You can check <a href = "https://covid.is/english">covid.is</a> for the current Covid situation in Iceland.
-
   
 ## Accommodation
 

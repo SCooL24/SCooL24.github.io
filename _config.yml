@@ -153,48 +153,6 @@ conference:
       twitter: 'twitter_preview.png'      # inside /assets/images/
       open_graph: 'facebook_preview.png'  # inside /assets/images/
 
-  # Main landing page
-  main:
-    # logo:
-    #   img: ''
-    links:
-      - name: Important Dates
-        relative_url: /important_dates/
-      - name: Call for Papers
-        relative_url: /cfp/
-      - name: Schedule
-        relative_url: /program/
-        # disabled: true
-      # - name: Special Sessions
-      #   relative_url: /special_sessions/
-      - name: How to Get There
-        relative_url: /location/
-      - name: Register
-        absolute_url: 'https://kom.eventsair.com/logic-colloquium/logic22reg/Site/Register'
-
-  # Information boxes
-  info_bars:
-    - title: Registration is now open!
-      color: primary
-      main_only: true
-      text: "Follow [this link](https://kom.eventsair.com/logic-colloquium/logic22reg/Site/Register) to register to the Logic Colloquium."
-    # - title: Deadline extension
-    #   color: primary
-    #   main_only: true
-    #   text: "The deadline for abstract submissions and student travel grants has been extended from the 24th to the 31st of March 2022."
-  #   - title: Welcome to the Conference Theme for Jekyll!
-  #     color: primary
-  #     main_only: true
-  #     text: |
-  #       The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
-
-  #       ---
-
-  #       See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-  #   - text: This is just some random content for demonstration purposes.
-  #     color: warning
-  #     pages_only: true
-
   # Live indications
   live:
     date: 27.06.2022
@@ -242,13 +200,13 @@ conference:
 
   location:
     # Disable links to locations
-    hide: false
+    hide: true
     # URL of location / room overview page
     url: '/location'
     # Main page title shown on location/room navigation bar
     navbar_title: 'Location'
     # Show map on location main page
-    map: true
+    map: false
 
   program:
     # URL of program page
