@@ -15,23 +15,23 @@ sass:
 plugins:
   - jekyll-feed
 
-# Additional exclude from processing
-exclude:
-  - .github/
-  - README.md
-  - LICENSE.md
-  - REDISTRIBUTED.md
-  - purgecss.config.js
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+# # Additional exclude from processing
+# exclude:
+#   - .github/
+#   - README.md
+#   - LICENSE.md
+#   - REDISTRIBUTED.md
+#   - purgecss.config.js
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 
 collections:
   talks:
@@ -172,22 +172,6 @@ conference:
       color: primary
       main_only: true
       text: "Follow [this link](https://kom.eventsair.com/logic-colloquium/logic22reg/Site/Register) to register to the Logic Colloquium."
-    # - title: Deadline extension
-    #   color: primary
-    #   main_only: true
-    #   text: "The deadline for abstract submissions and student travel grants has been extended from the 24th to the 31st of March 2022."
-  #   - title: Welcome to the Conference Theme for Jekyll!
-  #     color: primary
-  #     main_only: true
-  #     text: |
-  #       The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
-
-  #       ---
-
-  #       See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-  #   - text: This is just some random content for demonstration purposes.
-  #     color: warning
-  #     pages_only: true
 
   # Live indications
   live:
