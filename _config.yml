@@ -28,9 +28,21 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-conference
 plugins:
   - jekyll-feed
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+# Additional exclude from processing
+exclude:
+  - .github/
+  - README.md
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - purgecss.config.js
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,6 +63,30 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Collections and their defaults
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+  pc:
+    output: true
+    permalink: /:collection/:title/
+  sc:
+    output: true
+    permalink: /:collection/:title/
+  pl:
+    output: true
+    permalink: /:collection/:title/
+  dates:
+    output: true
+    permalink: /:collection/:title/
 
 conference:
 
@@ -107,3 +143,177 @@ conference:
         #     absolute_url: https://kom.eventsair.com/logic-colloquium/logic22reg/Site/Register
       - name: ASL sponsorship
         relative_url: /ASL/
+
+  # Link Preview for Sharing
+  link_preview:
+    # also adapt "preposition" property at top for more meaningful descriptions
+    disable: false
+    img:
+      twitter: 'twitter_preview.png'      # inside /assets/images/
+      open_graph: 'facebook_preview.png'  # inside /assets/images/
+
+  # Main landing page
+  main:
+    # logo:
+    #   img: ''
+    links:
+      - name: Important Dates
+        relative_url: /important_dates/
+      - name: Call for Papers
+        relative_url: /cfp/
+      - name: Schedule
+        relative_url: /program/
+        # disabled: true
+      # - name: Special Sessions
+      #   relative_url: /special_sessions/
+      - name: How to Get There
+        relative_url: /location/
+      - name: Register
+        absolute_url: 'https://kom.eventsair.com/logic-colloquium/logic22reg/Site/Register'
+
+  # Information boxes
+  info_bars:
+    - title: Registration is now open!
+      color: primary
+      main_only: true
+      text: "Follow [this link](https://kom.eventsair.com/logic-colloquium/logic22reg/Site/Register) to register to the Logic Colloquium."
+    # - title: Deadline extension
+    #   color: primary
+    #   main_only: true
+    #   text: "The deadline for abstract submissions and student travel grants has been extended from the 24th to the 31st of March 2022."
+  #   - title: Welcome to the Conference Theme for Jekyll!
+  #     color: primary
+  #     main_only: true
+  #     text: |
+  #       The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+
+  #       ---
+
+  #       See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
+  #   - text: This is just some random content for demonstration purposes.
+  #     color: warning
+  #     pages_only: true
+
+  # Live indications
+  live:
+    date: 27.06.2022
+    timezone: GMT
+    time_stop: 240      # in minutes
+    streaming:
+      time_pause:   60  # in minutes
+      time_prepend:  5  # in minutes
+      time_extend:   5  # in minutes
+    demo: false
+
+  map:
+    # Initial map center point
+    home_coord: 64.12393455413351, -21.92699124546256
+    # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+    # The following do match the Bootstrap design not too badly:
+    #   - Hydda.Full
+    #   - Thunderforest.Neighbourhood
+    #   - Esri.WorldTopoMap
+    map_provider: "OpenStreetMap.Mapnik"
+    default_zoom: 14
+
+  talks:
+    # Talk categories
+    main_categories:
+      - name: Talk
+        color: warning
+      - name: Plenary Talk
+        color: primary
+      - name: Tutorial
+        color: success
+      - name: Special Session
+        color: info
+      - name: Break
+        color: light
+      - name: Event
+        color: danger
+
+    # Hide icons on talk overview page
+    hide_icons: false
+
+  speakers:
+    # Show first and last name
+    show_firstname: true
+
+  location:
+    # Disable links to locations
+    hide: false
+    # URL of location / room overview page
+    url: '/location'
+    # Main page title shown on location/room navigation bar
+    navbar_title: 'Location'
+    # Show map on location main page
+    map: true
+
+  program:
+    # URL of program page
+    url: '/program'
+
+    # Time steps in program table
+    time_steps: 10 # in minutes
+
+    # Show intermediary time steps (next to full hours)
+    show_alltimes: true
+
+  important_dates:
+    # - name: "Registration Opens"
+    #   time: "TBA"
+    - name: "Deadline for Abstract Submission"
+      time: "31<sup>st</sup> of March"
+    # - name: "Notifications"
+    #   time: "TBA"
+    # - name: "Camera-Ready Abstracts Due"
+    #   time: "TBA"
+    - name: "Deadline for Early Registration"
+      time: "1<sup>st</sup> of June"
+    - name: "Start of the Conference"
+      time: "27<sup>th</sup> of June"
+    - name: "End of the Conference"
+      time: "1<sup>st</sup> of July"
+  early_fees:
+    - name: Regular
+      amount: 350
+    - name: Student
+      amount: 270
+    - name: Online
+      amount: 20
+  late_fees:
+    - name: Regular
+      amount: 430
+    - name: Student
+      amount: 320
+    - name: Online
+      amount: 40
+      # comment: " (from June 20, 2022)"
+
+  special_sessions:
+    - name: Set Theory
+      keyword: st
+    - name: Proof Theory and Ordinal Analysis
+      keyword: pt
+    - name: Reverse Mathematics and Combinatorial Principles
+      keyword: rm
+    - name: Model Theory
+      keyword: mt
+    - name: Computer Science Logic
+      keyword: csl
+    - name: Philosophy of Mathematics
+      keyword: pm
+
+  plenary:
+    - name: Set Theory
+      keyword: st
+    - name: Model Theory
+      keyword: mt
+    - name: Computer Science Logic
+      keyword: csl
+    - name: Proof Theory
+      keyword: pt
+    - name: Computability Theory
+      keyword: ct
+    - name: Philosophy
+      keyword: pm
