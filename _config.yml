@@ -35,6 +35,7 @@ plugins:
 markdown: kramdown
 sass:
   style: compressed
+  sass_dir: ./_sass
 
 # Additional exclude from processing
 exclude:
