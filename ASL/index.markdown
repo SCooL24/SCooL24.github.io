@@ -24,6 +24,6 @@ To apply, email the required application materials to the ASL office at [asl@uco
 * For citizens or residents of the USA: citizenship or Visa status
 * Optional: an indication of your gender and minority status.
   
-2. Ask your thesis supervisor to send a brief recommendation letter. *_Please note that if your advisor does not send this directly to the ASL office (i.e. you send it yourself), we will ask for a confirmation email from your advisor to confirm that the letter did in fact come from them.*_
+2. Ask your thesis supervisor to send a brief recommendation letter. ***Please note that if your advisor does not send this directly to the ASL office (i.e. you send it yourself), we will ask for a confirmation email from your advisor to confirm that the letter did in fact come from them.***
 
 Relevant information about Student Travel Awards can be found [here](https://aslonline.org/student-travel-awards/) and ASL Membership [here](https://aslonline.org/membership/).
