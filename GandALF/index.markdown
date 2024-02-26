@@ -40,11 +40,11 @@ The aim of **GandALF 2024** is to bring together researchers from academia and i
 * Synthesis
 
 ## Programme Committee ##
-**Co-chairs**
+**Co-chairs**  
 Antonios Achilleos  
 Andrian Francalanza  
 
-**Members**
+**Members**  
 Parosh Aziz Abdulla (Uppsala University)  
 Valentina Castiglioni (Eindhoven University of Technology)    
 Dario Della Monica (Università degli Studi di Udine)  
