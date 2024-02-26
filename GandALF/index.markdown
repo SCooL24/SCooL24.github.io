@@ -72,20 +72,3 @@ TBA
 
 The previous editions of GandALF already led to special issues of the International Journal of Foundations of Computer Science (GandALF 2010), Theoretical Computer Science (GandALF 2011 and 2012), Information and Computation (GandALF 2013, 2014, 2016, 2017, 2018, 2019, and 2020), Acta Informatica (GandALF 2015) and Logical Methods in Computer Science (GandALF 2021, 2022, and 2023).
 
-## Submission ##
-TBA
-
-## Important dates ##
-
-<div class="datatable-begin"></div>
-
-| Abstract submission deadline: TBA |
-| Paper submission deadline: TBA |
-| Acceptance notification: TBA |
-| Camera-ready deadline: TBA |
-| Early registration deadline: TBA |
-| Conference dates: 18-20 June 2024 |
-
-<div class="datatable-end"></div>
-
-**All deadlines are** [AoE](https://time.is/Anywhere_on_Earth).
