@@ -11,7 +11,7 @@ Students that are ASL members may apply for ASL travel support for any or all ev
 
 Applications and recommendations for any of the events must be received before the **19th of March**. No late applications will be accepted. Decisions will be communicated before the 19th of April.
 
-To apply, email the required application materials to the ASL office at [asl@uconn.edu)](mailto:asl@uconn.edu) with “ASL travel application” in the subject line.
+To apply, email the required application materials to the ASL office at [asl@uconn.edu](mailto:asl@uconn.edu) with “ASL travel application” in the subject line.
 
 **Required application materials for a student travel award:**
 1. Send a brief (preferably one page) letter of application that includes:
