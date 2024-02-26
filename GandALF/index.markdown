@@ -39,6 +39,28 @@ The aim of **GandALF 2024** is to bring together researchers from academia and i
 * Specification and Verification of Finite and Infinite-state Systems
 * Synthesis
 
+## Programme Committee ##
+**Co-chairs**
+Antonios Achilleos  
+Andrian Francalanza  
+
+**Members**
+Parosh Aziz Abdulla (Uppsala University)  
+Valentina Castiglioni (Eindhoven University of Technology)    
+Dario Della Monica (Università degli Studi di Udine)  
+Nicola Gigante (Free University of Bozen-Bolzano, Italy)  
+Julian Gutierrez (Monash University)  
+Orna Kupferman (Hebrew University)  
+Martin Leucker (University of Luebeck) 
+Paweł Parys (University of Warsaw)  
+Guillermo Perez (University of Antwerp)  
+Jakob Piribauer (TU Dresden)  
+Ocan Sankur (Univ Rennes, CNRS)  
+Patrick Totzke (University of Liverpool)  
+Tomoyuki Yamakami (University of Fukui)  
+Matteo Zavatteri (University of Padova)  
+Martin Zimmermann (Aalborg University)  
+
 ## Invited speakers ##
 TBA
 
