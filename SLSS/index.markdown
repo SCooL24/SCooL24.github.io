@@ -15,6 +15,23 @@ The twelfth Scandinavian Logic Symposium (SLSS 2024) will be held at Reykjavik U
 
 The primary aim of the Symposium is to promote research in the field of logic (broadly conceived) carried out in research communities in Scandinavia. Moreover, it warmly invites the participation of logicians from all over the world. The meeting will include invited lectures and a forum for participants to present contributed talks.
 
+**Suggested topics**
+The scope of SLSS is broad, ranging over the whole areas of Mathematical and Philosophical Logic, as well as Logical Methods in Computer Science, Artificial Intelligence, Linguistics, among others. Major topics include (but are not limited to)
+– Proof Theory
+– Constructivism
+– Model Theory
+– Set Theory
+– Computability Theory
+– Algebra and Logic
+– Categorical Logic
+– Modal and Temporal Logics
+– Dynamic Logics
+– Logic and Computer Science
+– Logic in AI and Multi-Agent Systems
+– Logic and Linguistics
+– Philosophical Logic
+– Philosophy of Logic, Mathematics and Computation
+
 #### Programme Committee ####
 
 **Co-chairs**  
