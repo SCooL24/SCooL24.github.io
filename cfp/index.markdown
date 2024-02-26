@@ -11,7 +11,7 @@ subtitle: Call for papers
 
 Submitted papers should not exceed 14 pages (excluding references and clearly marked appendices) using EPTCS format (please use the LaTeX style provided [here](https://style.eptcs.org/)), be unpublished, and contain original research. For papers reporting experimental results, authors are encouraged to make their data available with their submission. Submissions must be in PDF format and will be handled via EasyChair at the following address:
 
-(https://easychair.org/conferences/?conf=gandalf2024)
+[https://easychair.org/conferences/?conf=gandalf2024](https://easychair.org/conferences/?conf=gandalf2024)
 
 ## Important dates ##
 
