@@ -57,7 +57,7 @@ Aybüke Özgün (ILLC, University of Amsterdam)
 ### Submissions ###
 
 Abstracts of contributed talks, in PDF format, not exceeding two A4 (11pt) pages, should be submitted through EasyChair: 
-https://easychair.org/conferences/?conf=slss2024.
+[https://easychair.org/conferences/?conf=slss2024](https://easychair.org/conferences/?conf=slss2024).
 
 Abstracts should be typeset following the format of a LaTeX class file [SLS2014.cls](https://homepages.tuni.fi/kerkko.luosto/event/SLS2014/SLS2014.cls), or in a similar format if you prefer to not use LaTeX.
 
