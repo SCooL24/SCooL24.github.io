@@ -48,6 +48,7 @@ Andrian Francalanza (University of Malta)
 **Members**  
 Parosh Aziz Abdulla (Uppsala University)  
 Valentina Castiglioni (Eindhoven University of Technology)    
+Aggeliki Chalki (Reykjavik University)  
 Dario Della Monica (Università degli Studi di Udine)  
 Nicola Gigante (Free University of Bozen-Bolzano, Italy)  
 Julian Gutierrez (Monash University)  
