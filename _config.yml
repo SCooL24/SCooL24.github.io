@@ -121,6 +121,9 @@ conference:
         - name: Previous editions
          # disabled: true
           relative_url: /previous/
+          - name: Committees
+         # disabled: true
+          relative_url: /committees/
         - name: Program
           disabled: true
           menu:
