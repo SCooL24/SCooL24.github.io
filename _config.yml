@@ -122,7 +122,7 @@ conference:
          # disabled: true
           relative_url: /previous/
           - name: Committees
-         # disabled: true
+          disabled: true
           relative_url: /committees/
         - name: Program
           disabled: true
