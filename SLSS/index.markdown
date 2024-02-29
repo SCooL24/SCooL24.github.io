@@ -36,7 +36,7 @@ The scope of SLSS is broad, ranging over the whole areas of Mathematical and Phi
 
 **Co-chairs**  
 Antonios Achilleos (Reykjavik University)  
-Dag Westerståhl (Stockholm University)
+Dag Westerståhl (Stockholm University, Tsinghua University)
 
 **Members**  
 Gaia Belardinelli (University of Copenhagen)  
