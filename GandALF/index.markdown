@@ -11,7 +11,7 @@ subtitle: Games, Automata, Logics, and Formal Verification
 
 #### 19–21 June 2024, Reykjavík, Iceland ####
 
-welcome to the website of GandALF 2024, the Fifteenth International Symposium on Games, Automata, Logics, and Formal Verification, that will take place in Reykjavík, Iceland, on 19–21 June 2024. The conference will be hosted by [Reykjavík University](https://en.ru.is/) and it is organized by the Department of Computer Science ([ICE-TCS](https://icetcs.ru.is)).
+Welcome to the website of GandALF 2024, the Fifteenth International Symposium on Games, Automata, Logics, and Formal Verification, that will take place in Reykjavík, Iceland, on 19–21 June 2024. The conference will be hosted by [Reykjavík University](https://en.ru.is/) and it is organized by the Department of Computer Science ([ICE-TCS](https://icetcs.ru.is)).
 
 The aim of **GandALF 2024** is to bring together researchers from academia and industry who are actively working in the fields of **Games**, **Automata**, **Logics**, and **Formal Verification**. The idea is to cover an ample spectrum of themes, ranging from theory to applications, and stimulate cross-fertilization. Papers focused on formal methods are especially welcome. Authors are invited to submit original research or tool papers on all relevant topics in these areas. Papers discussing new ideas that are at an early stage of development are also welcome. The topics covered by the conference include, but are not limited to, the following:
 
