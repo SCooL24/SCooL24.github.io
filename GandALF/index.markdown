@@ -41,18 +41,20 @@ The aim of **GandALF 2024** is to bring together researchers from academia and i
 
 ## Programme Committee ##
 **Co-chairs**  
-Antonios Achilleos  
-Andrian Francalanza  
+Antonios Achilleos (Reykjavik University)  
+Andrian Francalanza (University of Malta)  
+
 
 **Members**  
 Parosh Aziz Abdulla (Uppsala University)  
 Valentina Castiglioni (Eindhoven University of Technology)    
+Aggeliki Chalki (Reykjavik University)  
 Dario Della Monica (Università degli Studi di Udine)  
 Nicola Gigante (Free University of Bozen-Bolzano, Italy)  
 Julian Gutierrez (Monash University)  
 Orna Kupferman (Hebrew University)  
-Martin Leucker (University of Luebeck) 
-Paweł Parys (University of Warsaw)  
+Martin Leucker (University of Luebeck)  
+Pawe<span>&#322;</span> Parys (University of Warsaw)   
 Guillermo Perez (University of Antwerp)  
 Jakob Piribauer (TU Dresden)  
 Ocan Sankur (Univ Rennes, CNRS)  
@@ -62,7 +64,7 @@ Matteo Zavatteri (University of Padova)
 Martin Zimmermann (Aalborg University)  
 
 ## Invited speakers ##
-TBA
+[Kim Guldstrand Larsen](https://kgl.cs.aau.dk/) (Aalborg University)
 
 ## Social Event ##
 TBA

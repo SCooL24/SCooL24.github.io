@@ -11,7 +11,7 @@ subtitle: Nordic Logic Summer School
 
 ### 10–13 June 2024, Reykjavík, Iceland ###
 
-The fifth Nordic Logic Summer School is arranged under the auspices of the [Scandinavian Logic Society](https://scandinavianlogic.org/). The four previous schools were organised in Nordfjordeid, Norway (2013), Helsinki, Finland (2015), Stockholm, Sweden (2017) and Bergen, Norway (2022). The intended audience is advanced master students, PhD-students, postdocs and experienced researchers wishing to learn the state of the art in a particular subject. 
+The fifth Nordic Logic Summer School is arranged under the auspices of the [Scandinavian Logic Society](https://scandinavianlogic.org/). The four previous schools were organised in [Bergen](https://scandinavianlogic2020.w.uib.no/fourth-nordic-logic-summer-school-nls-2020/) in Norway (2022), Stockholm in Sweden (2017), [Helsinki](https://web.archive.org/web/20161117234437/https://www.helsinki.fi/sls2015/index.html) in Finland (2015), and Nordfjordeid in Norway (2013). The intended audience is advanced master students, PhD-students, postdocs and experienced researchers wishing to learn the state of the art in a particular subject. 
 
 
 #### Programme Committee ####
