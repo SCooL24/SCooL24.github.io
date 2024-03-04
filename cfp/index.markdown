@@ -18,7 +18,7 @@ Submitted papers should not exceed 14 pages (excluding references and clearly ma
 <div class="datatable-begin"></div>
 
 | Abstract submission deadline: TBA |
-| Paper submission deadline: TBA |
+| Paper submission deadline: April 10 |
 | Acceptance notification: TBA |
 | Camera-ready deadline: TBA |
 | Early registration deadline: TBA |
