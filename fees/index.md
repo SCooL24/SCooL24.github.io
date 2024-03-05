@@ -1,6 +1,7 @@
 ---
 layout: fees
 ---
+
 ### Scandinavian Logic Symposium: ###
  
 * Full registration (early): 450 EUR  
