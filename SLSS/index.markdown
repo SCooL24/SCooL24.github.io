@@ -68,10 +68,4 @@ Notification: April 30
 Final programme: TBA  
 Conference: 14-16 June, 2024
 
-### Registration ###
- 
-* Full registration (early): 450 EUR  
-* Student registration (early): 350 EUR
 
-* Full registration (late): 550 EUR
-* Student registration (late): 420 EUR
