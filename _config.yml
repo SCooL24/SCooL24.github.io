@@ -139,10 +139,10 @@ conference:
           # - name: 2018
           #   relative_url: /2018/
       - name: Registration
-        disabled: true
-        # menu:
-        #   - name: Fees
-        #     relative_url: /fees/
+        # disabled: true
+        menu:
+        - name: Fees
+          relative_url: /fees/
         #   - name: Registration Form
         #     absolute_url: https://kom.eventsair.com/logic-colloquium/logic22reg/Site/Register
       - name: ASL sponsorship
