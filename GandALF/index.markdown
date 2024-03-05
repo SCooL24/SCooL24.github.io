@@ -71,7 +71,8 @@ Matteo Zavatteri (University of Padova)
 Martin Zimmermann (Aalborg University)  
 
 ## Invited speakers ##
-[Kim Guldstrand Larsen](https://kgl.cs.aau.dk/) (Aalborg University)
+* [Kim Guldstrand Larsen](https://kgl.cs.aau.dk/) (Aalborg University)
+* Other speakers will be announced in the coming weeks
 
 ## Social Event ##
 TBA
