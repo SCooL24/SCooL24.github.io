@@ -72,6 +72,7 @@ Martin Zimmermann (Aalborg University)  --->
 
 ## Invited speakers ##
 * [Kim Guldstrand Larsen](https://kgl.cs.aau.dk/) (Aalborg University)
+* [Bernd Finkbeiner](https://cispa.de/en/people/finkbeiner)(CISPA Helmholtz Center for Information Security)
 * Other speakers will be announced in the coming weeks
 
 ## Social Event ##
