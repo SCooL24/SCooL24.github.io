@@ -78,7 +78,7 @@ Martin Zimmermann (Aalborg University)
 TBA
 
 ## Publication ##
-TBA
+The proceedings will be published by Electronic Proceedings in Theoretical Computer Science ([https://cgi.cse.unsw.edu.au/~eptcs/](https://cgi.cse.unsw.edu.au/~eptcs/)). 
 
 The previous editions of GandALF already led to special issues of the International Journal of Foundations of Computer Science (GandALF 2010), Theoretical Computer Science (GandALF 2011 and 2012), Information and Computation (GandALF 2013, 2014, 2016, 2017, 2018, 2019, and 2020), Acta Informatica (GandALF 2015) and Logical Methods in Computer Science (GandALF 2021, 2022, and 2023).
 
