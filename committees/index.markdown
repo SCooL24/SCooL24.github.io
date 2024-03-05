@@ -7,7 +7,7 @@ subtitle: Committees
 
 ## Committees ##
 
-## Programme Committee ##
+### Programme Committee ###
 **Co-chairs**  
 Antonios Achilleos (Reykjavik University)  
 Andrian Francalanza (University of Malta)  
@@ -38,7 +38,7 @@ Tomoyuki Yamakami (University of Fukui)
 Matteo Zavatteri (University of Padova)  
 Martin Zimmermann (Aalborg University)
 
-## Steering Committee ##
+### Steering Committee ###
 
 Luca Aceto – Reykjavik University (Iceland) and Gran Sasso Science Institute (Italy)  
 Javier Esparza – University of Munich (Germany)  
