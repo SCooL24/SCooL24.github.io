@@ -39,7 +39,7 @@ The aim of **GandALF 2024** is to bring together researchers from academia and i
 * Specification and Verification of Finite and Infinite-state Systems
 * Synthesis
 
-## Programme Committee ##
+<!---## Programme Committee ##
 **Co-chairs**  
 Antonios Achilleos (Reykjavik University)  
 Andrian Francalanza (University of Malta)  
@@ -68,7 +68,7 @@ Felix Stutz (University of Luxembourg)
 Patrick Totzke (University of Liverpool)  
 Tomoyuki Yamakami (University of Fukui)  
 Matteo Zavatteri (University of Padova)  
-Martin Zimmermann (Aalborg University)  
+Martin Zimmermann (Aalborg University)  ---> 
 
 ## Invited speakers ##
 * [Kim Guldstrand Larsen](https://kgl.cs.aau.dk/) (Aalborg University)
