@@ -5,8 +5,6 @@ title: Committees
 subtitle: Committees
 ---
 
-## Committees ##
-
 ### Programme Committee ###
 **Co-chairs**  
 Antonios Achilleos (Reykjavik University)  
