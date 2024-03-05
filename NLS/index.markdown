@@ -30,7 +30,7 @@ Ana Ozaki (University of Bergen & University of Oslo)
 #### Invited Speakers ####
 
 Miika Hannula (University of Helsinki)  
-#Sandra Kiefer (University of Oxford)  
+<!--- Sandra Kiefer (University of Oxford) --->   
 Greg Restall (University of St Andrews)  
 Jandson Ribeiro (Cardiff University)  
 Rineke Verbrugge (University of Groningen)
