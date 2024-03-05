@@ -63,7 +63,15 @@ Abstracts should be typeset following the format of a LaTeX class file [SLS2014.
 
 ### Important dates ###
 
-Submission deadline: April 7
-Notification: April 30
+Submission deadline: April 7  
+Notification: April 30  
 Final programme: TBA  
 Conference: 14-16 June, 2024
+
+### Registration ###
+ 
+* Full registration (early): 450 EUR  
+* Student registration (early): 350 EUR
+
+* Full registration (late): 550 EUR
+* Student registration (late): 420 EUR
