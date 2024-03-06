@@ -20,6 +20,6 @@ Nordic Logic Summer School:
 
 GandALF: 
 
-TBA
+The registration fees for GandALF are not fixed yet, but they will be at most 600 euros for general early registration and 450 euros for early student registration.
 
 The registration page will activate very soon.
