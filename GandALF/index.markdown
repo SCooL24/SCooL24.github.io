@@ -74,7 +74,7 @@ Martin Zimmermann (Aalborg University)  --->
 * [Bernd Finkbeiner](https://cispa.de/en/people/finkbeiner) (CISPA Helmholtz Center for Information Security)
 * [Kim Guldstrand Larsen](https://kgl.cs.aau.dk/) (Aalborg University)
 * [Brigitte Pientka](https://www.cs.mcgill.ca/~bpientka/) (McGill University)
-* [Azalea Raad](https://www.soundandcomplete.org/index.html)
+* [Azalea Raad](https://www.soundandcomplete.org/index.html) (Imperial College London)
 
 ## Social Event ##
 TBA
