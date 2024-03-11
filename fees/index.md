@@ -12,14 +12,14 @@ Scandinavian Logic Symposium:
 
 Nordic Logic Summer School: 
 
-* Full registration NLS (early): 300 EUR
-* Student registration NLS (early): 200 EUR
+* Full registration (early): 300 EUR
+* Student registration (early): 200 EUR
 
-* Full registration NLS (late): 380 EUR
-* Student registration NLS (late): 260 EUR
+* Full registration (late): 380 EUR
+* Student registration (late): 260 EUR
 
 GandALF: 
 
-TBA
+The registration fees for GandALF are not fixed yet, but they will be at most 600 euros for general early registration and 450 euros for early student registration.
 
 The registration page will activate very soon.
