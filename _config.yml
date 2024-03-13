@@ -143,7 +143,8 @@ conference:
         menu:
         - name: Fees
           relative_url: /fees/
-        #   - name: Registration Form
+        - name: Registration Forms
+          relative url: /registration/
         #     absolute_url: https://kom.eventsair.com/logic-colloquium/logic22reg/Site/Register
       - name: ASL sponsorship
         relative_url: /ASL/
