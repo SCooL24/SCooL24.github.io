@@ -7,7 +7,7 @@ title: First Reykjavik Summer of Cool Logic 2024 (SCooL 2024)
 
 ---
 
-![alt text for screen readers](img/phototwo.jpg){: .center-image }
+![alt text for screen readers](img/phototwo.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 The event is supported by:
 
