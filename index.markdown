@@ -9,6 +9,9 @@ title: First Reykjavik Summer of Cool Logic 2024 (SCooL 2024)
 
 ![alt text for screen readers](img/phototwo.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
+> [!IMPORTANT]  
+> Registration for NLS and SLSS 2024 is now open!
+
 The event is supported by:
 
 ![alt text for screen readers](img/Reykjavik_University_Logo.svg.png){:height="100px" width="100px"}&nbsp;&nbsp;&nbsp;&nbsp;
