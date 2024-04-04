@@ -2,7 +2,6 @@
 layout: default
 ---
 
-### Registration Forms ###
 <font size="10"> Registration Forms </font>  
 <br />
 To register, please follow the appropriate link: 
