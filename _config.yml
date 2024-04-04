@@ -148,6 +148,8 @@ conference:
         #     absolute_url: https://kom.eventsair.com/logic-colloquium/logic22reg/Site/Register
       - name: ASL sponsorship
         relative_url: /ASL/
+      - name: Student Accommodation
+        relative_url: /student_accommodation/
 
   # Link Preview for Sharing
   link_preview:
