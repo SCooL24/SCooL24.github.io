@@ -2,6 +2,7 @@
 layout: default
 ---
 
+### Registration ###
 
 To register, please follow the appropriate link: 
 
