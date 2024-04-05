@@ -11,7 +11,7 @@ Students can apply for shared apartments close to Reykjavik University. However,
 
 To apply, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeorGk6fEblUSB99yhff6cqeAPR0cjmeOpgp03I7Pig8ociEQ/viewform).
 
-The application deadline is May 15, 2024, but we may process applications earlier.
+The application deadline is May 15, 2024, but we may process applications earlier, depending on the applications we receive.
 So, if you are interested, and you know which events you are attending, apply as soon as possible.
 
 The student accommodation is offered at very little cost to be decided during the allocation.
