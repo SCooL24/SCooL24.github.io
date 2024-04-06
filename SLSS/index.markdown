@@ -63,7 +63,7 @@ Abstracts should be typeset following the format of a LaTeX class file [SLS2014.
 
 ### Important dates ###
 
-Submission deadline: April 7  
+Submission deadline: ~~April 7~~ April 12  
 Notification: April 30  
 Final programme: TBA  
 Conference: 14-16 June, 2024
