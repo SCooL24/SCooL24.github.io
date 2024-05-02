@@ -18,4 +18,4 @@ The event is supported by:
 
 <br />
 <br />
-If you have any questions, please contact Antonis Achilleos: antonios@ru.is or Aggeliki Chalki: angelikic@ru.is
+If you have any questions, please contact Antonis Achilleos: [antonios@ru.is](antonios@ru.is) or Aggeliki Chalki: [angelikic@ru.is](angelikic@ru.is)
