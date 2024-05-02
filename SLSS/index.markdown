@@ -44,7 +44,7 @@ Jens Classen (Roskilde University)
 Salvatore Florio (University of Oslo)  
 Juha Kontinen (University of Helsinki)   
 Vera Koponen (Uppsala University)  
-Maria Magdalena Ortiz de la Fuente (TU Wien)  
+Magdalena Ortiz (TU Wien)  
 Mina Young Pedersen (University of Bergen)  
 Esko Turunen (TU Wien)  
 
