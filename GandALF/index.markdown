@@ -77,7 +77,7 @@ Martin Zimmermann (Aalborg University)  --->
 * [Azalea Raad](https://www.soundandcomplete.org/index.html) (Imperial College London)
 
 ## Social Event ##
-TBA
+We will go on a whale-watching tour on Wednesday 20 June, in the afternoon, estimated from 5 pm to 8 pm. We will announce more details closer to the event.
 
 ## Publication ##
 The proceedings will be published by [Electronic Proceedings in Theoretical Computer Science](https://cgi.cse.unsw.edu.au/~eptcs/). Authors of selected papers will be invited to submit a revised version of their work to a special issue of [Logical Methods in Computer Science](https://lmcs.episciences.org/).
