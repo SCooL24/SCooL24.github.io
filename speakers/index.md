@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Invited Speakers
 ---
 
 [Kim Guldstrand Larsen](https://kgl.cs.aau.dk/)
