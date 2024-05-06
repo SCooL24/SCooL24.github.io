@@ -1,5 +1,5 @@
 ---
-layout: speaker-overview
+layout: default
 ---
 
 [Kim Guldstrand Larsen](https://kgl.cs.aau.dk/)
