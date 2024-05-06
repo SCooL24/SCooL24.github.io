@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: home
 title: Invited Speakers
 ---
 
 [Kim Guldstrand Larsen](https://kgl.cs.aau.dk/)
+
 Title: Shielded Reinforcement Learning for Safe and Optimal Cyber Physical Systems
 
 Abstract:
