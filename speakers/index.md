@@ -12,6 +12,8 @@ I will present recent advances and applications of the tool UPPAAL Stratego (www
 
 We study the impact of the synthesized shield when applied as either a pre-shield (applied before learning a controller) or a post-shield (only applied after learning a controller). In addition trade-offs between efficiency of strategy representation and degree of optimality subject to safety constraints will be discussed, as well as successful on-going applications (water-management, heating systems, and traffic control).
 
+---------------------------------------------------------------------------------------------------------------------------
+
 Speaker: [Azalea Raad](https://www.soundandcomplete.org/index.html) 
 
 Title: Bug Detection at Scale
