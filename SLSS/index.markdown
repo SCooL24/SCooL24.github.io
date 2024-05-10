@@ -50,9 +50,30 @@ Esko Turunen (TU Wien)
 
 #### Invited Speakers ####
 
-Fausto Barbero (University of Helsinki)   
-Sara Negri (University of Genoa)    
-Aybüke Özgün (ILLC, University of Amsterdam)  
+Speaker: Fausto Barbero (University of Helsinki) 
+
+Title: TBA
+
+Abstract: TBA
+
+-----------------------------------------------------------------------------------------------------
+
+Speaker: Sara Negri (University of Genoa)    
+
+Title: Second order well-behaved
+
+Abstract: Second-order logic extends the expressive power of first-order logic, allowing for the representation of properties that involve quantification over all subsets or families of subsets within a given structure, addressing a fundamental need in mathematical discourse. However, while offering significant advantages, full second-order logic faces challenges due to its impredicative nature and the absence of crucial metalogical properties, which complicates the development of proof systems. Our research tackles these challenges by introducing G3-style sequent calculi that incorporate a predicative comprehension schema, facilitating constructive cut-elimination proofs.  
+Expanding upon these calculi, we delve into the proof theory of mathematical theories, adapting methods from first-order calculi and establishing structural results for both classical and intuitionistic versions of the calculi. Additionally, we define extensional equality and apartness within second-order logic, demonstrating the ability to reduce mathematical concepts to pure logical terms. To illustrate, we present the theories of von Neumann–G¨odel–Bernays set theory and predicative second-order arithmetic. Moreover, we establish a variant of Herbrand’s theorem tailored for predicative second-order intuitionistic logic, demonstrating the conservativity of predicative second-order Heyting arithmetic over its first-order counterpart. Furthermore, we extend the interpolation theorem and modal embedding of intuitionistic logic to predicative second-order logic.
+
+----------------------------------------------------------------------------------------------------------
+
+Speaker: Aybüke Özgün (ILLC, University of Amsterdam) 
+
+Title: TBA
+
+Abstract: TBA
+
+---------------------------------------------------------------------------------------------------------------
 
 ### Submissions ###
 
