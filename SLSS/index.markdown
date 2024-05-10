@@ -50,6 +50,8 @@ Esko Turunen (TU Wien)
 
 #### Invited Speakers ####
 
+-------------------------------------------------------------------------------------------------
+
 Speaker: Fausto Barbero (University of Helsinki) 
 
 Title: TBA
