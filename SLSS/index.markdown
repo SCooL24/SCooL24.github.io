@@ -54,9 +54,11 @@ Esko Turunen (TU Wien)
 
 Speaker: Fausto Barbero (University of Helsinki) 
 
-Title: TBA
+Title: Title: Causal models and their generalizations
 
-Abstract: TBA
+Abstract: The Structural Equation models considered in the field of causal inference describe causation in terms of functions that relate the behaviour of different magnitudes (variables). Galles and Pearl (1997) observed that the same framework supports a notion of (interventionist) counterfactual that differs from those offered by the philosophical literature, and to which many notions of causation can be reduced.
+
+I will give an overview of the logic literature on interventionist counterfactuals, starting with the classical results in the context of standard causal models. Next, I will point to some causality-related issues that are not represented in causal models, such as the interaction of observations and interventions, and the possibility of assuming indeterministic causal laws; and make a case that appropriate generalizations of team semantics and possible-world semantics may be good candidates for extending the formalization of causal discourse.
 
 -----------------------------------------------------------------------------------------------------
 
