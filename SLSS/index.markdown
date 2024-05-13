@@ -54,7 +54,7 @@ Esko Turunen (TU Wien)
 
 Speaker: Fausto Barbero (University of Helsinki) 
 
-Title: Title: Causal models and their generalizations
+Title: Causal models and their generalizations
 
 Abstract: The Structural Equation models considered in the field of causal inference describe causation in terms of functions that relate the behaviour of different magnitudes (variables). Galles and Pearl (1997) observed that the same framework supports a notion of (interventionist) counterfactual that differs from those offered by the philosophical literature, and to which many notions of causation can be reduced.
 
