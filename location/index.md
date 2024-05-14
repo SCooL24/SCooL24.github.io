@@ -2,7 +2,7 @@
 layout: location
 ---
 
-The meeting will be held at the premises of <a href="https://www.ru.is/">Reykjavik University</a> (map below), close to the city center of Reykjavik (Iceland), hosted by the <a href = "http://icetcs.ru.is/">ICE-TCS research center</a> of the Department of Computer Science.
+The meeting will be held at the premises of <a href="https://www.ru.is/">Reykjavik University</a> (Menntavegur 1, 102, 101 Reykjavík), close to the city center of Reykjavik (Iceland), hosted by the <a href = "http://icetcs.ru.is/">ICE-TCS research center</a> of the Department of Computer Science.
 
   
 ## Accommodation
