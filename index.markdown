@@ -15,3 +15,7 @@ The event is supported by:
 
 ![alt text for screen readers](img/Reykjavik_University_Logo.svg.png){:height="100px" width="100px"}&nbsp;&nbsp;&nbsp;&nbsp;
 ![alt text for screen readers](img/Association_for_Symbolic_Logic_Logo.svg.png){:height="100px" width="100px"}
+
+<br />
+<br />
+If you have any questions, please contact Antonis Achilleos: [antonios@ru.is](mailto:antonios@ru.is), Aggeliki Chalki: [angelikic@ru.is](mailto:angelikic@ru.is), or Jana Wagemaker:  [janaw@ru.is](mailto:janaw@ru.is).

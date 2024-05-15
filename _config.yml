@@ -124,6 +124,9 @@ conference:
         - name: Committees
          # disabled: true
           relative_url: /committees/
+        - name: Invited Speakers
+         # disabled: true
+          relative_url: /speakers/
         - name: Program
           disabled: true
           menu:
