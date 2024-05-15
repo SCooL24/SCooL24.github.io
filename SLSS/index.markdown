@@ -32,7 +32,7 @@ The scope of SLSS is broad, ranging over the whole areas of Mathematical and Phi
 * Philosophical Logic
 * Philosophy of Logic, Mathematics and Computation
 
-#### Programme Committee ####
+### Programme Committee ###
 
 **Co-chairs**  
 Antonios Achilleos (Reykjavik University)  
@@ -48,34 +48,12 @@ Magdalena Ortiz (TU Wien)
 Mina Young Pedersen (University of Bergen)  
 Esko Turunen (TU Wien)  
 
-#### Invited Speakers ####
+### Invited Speakers ###
 
--------------------------------------------------------------------------------------------------
 
-Speaker: Fausto Barbero (University of Helsinki) 
-
-Title: Causal models and their generalizations
-
-Abstract: The Structural Equation models considered in the field of causal inference describe causation in terms of functions that relate the behaviour of different magnitudes (variables). Galles and Pearl (1997) observed that the same framework supports a notion of (interventionist) counterfactual that differs from those offered by the philosophical literature, and to which many notions of causation can be reduced.
-
-I will give an overview of the logic literature on interventionist counterfactuals, starting with the classical results in the context of standard causal models. Next, I will point to some causality-related issues that are not represented in causal models, such as the interaction of observations and interventions, and the possibility of assuming indeterministic causal laws; and make a case that appropriate generalizations of team semantics and possible-world semantics may be good candidates for extending the formalization of causal discourse.
-
------------------------------------------------------------------------------------------------------
-
-Speaker: Sara Negri (University of Genoa)    
-
-Title: Second order well-behaved
-
-Abstract: Second-order logic extends the expressive power of first-order logic, allowing for the representation of properties that involve quantification over all subsets or families of subsets within a given structure, addressing a fundamental need in mathematical discourse. However, while offering significant advantages, full second-order logic faces challenges due to its impredicative nature and the absence of crucial metalogical properties, which complicates the development of proof systems. Our research tackles these challenges by introducing G3-style sequent calculi that incorporate a predicative comprehension schema, facilitating constructive cut-elimination proofs.  
-Expanding upon these calculi, we delve into the proof theory of mathematical theories, adapting methods from first-order calculi and establishing structural results for both classical and intuitionistic versions of the calculi. Additionally, we define extensional equality and apartness within second-order logic, demonstrating the ability to reduce mathematical concepts to pure logical terms. To illustrate, we present the theories of von Neumann–G¨odel–Bernays set theory and predicative second-order arithmetic. Moreover, we establish a variant of Herbrand’s theorem tailored for predicative second-order intuitionistic logic, demonstrating the conservativity of predicative second-order Heyting arithmetic over its first-order counterpart. Furthermore, we extend the interpolation theorem and modal embedding of intuitionistic logic to predicative second-order logic.
-
-----------------------------------------------------------------------------------------------------------
-
-Speaker: Aybüke Özgün (ILLC, University of Amsterdam) 
-
-Title: TBA
-
-Abstract: TBA
+ Fausto Barbero (University of Helsinki)  
+ Sara Negri (University of Genoa)    
+ Aybüke Özgün (ILLC, University of Amsterdam) 
 
 ---------------------------------------------------------------------------------------------------------------
 
@@ -88,13 +66,78 @@ Abstracts should be typeset following the format of a LaTeX class file [SLS2014.
 
 ### Important dates ###
 
-Submission deadline: ~~7 April~~ 12 April
+Submission deadline: ~~7 April~~ 12 April   
 Notification: 30 April  
 Early registration deadline: 24 May  
 Conference: 14-16 June, 2024
 
+-------------------------------------------------------------------------------------------------
 
-<body><h3> Accepted Papers</h3><style>.accepted {clear:right;margin-bottom:20pt;padding:3pt}</style><style>.abstract {border-left: solid black 1px;border-right: solid black 1px;border-top: solid black 1px;padding:3pt}</style><style>.paper {border-left: solid black 1px;border-right: solid black 1px;border-top: solid black 1px;padding:2pt}</style><style>.abstract:last-child {border-bottom: solid black 1px;padding:3pt}</style><style>.paper:last-child {border-bottom: solid black 1px;padding:2pt}</style><div class="paper"><span class="authors"><span><a href="http://www.alexandergheorghiu.com/">Alexander Gheorghiu</a>, Tao Gu and <a href="http://www.cs.ucl.ac.uk/staff/D.Pym/">David Pym</a></span>. </span><span class="title">A Note on an Inferentialist Approach to Resource Semantics</span></div><div class="paper"><span class="authors"><a href="https://merelsemeijn.wordpress.com/">Merel Semeijn</a>. </span><span class="title">Common ground beyond the grave</span></div><div class="paper"><span class="authors">Bartosz Więckowski. </span><span class="title">Proof-theoretic considerations on the structure of reasoning with counterfactuals and knowledge</span></div><div class="paper"><span class="authors"><span>Pawel Pawlowski and Daniel Skurt</span>. </span><span class="title">Non-deterministic approach to modality</span></div><div class="paper"><span class="authors">Pietro Vigiani. </span><span class="title">Entailment and Containment: a Ternary and Contextual approach to Information and Topic Inclusion</span></div><div class="paper"><span class="authors">Karol Wapniarski. </span><span class="title">The (Non)emptiness Problem: Ontological Assumptions of Traditional Logic from Aristotle to Gorge Boole</span></div><div class="paper"><span class="authors"><span>Camillo Fiore and Bruno Da Ré</span>. </span><span class="title">Maximally Substructural Classical Logic</span></div><div class="paper"><span class="authors">Camillo Fiore. </span><span class="title">Notational Variance in Substructural Logics</span></div><div class="paper"><span class="authors">Pedro del Valle-Inclan. </span><span class="title">Carnap's Problem, Definability and Compositionality</span></div><div class="paper"><span class="authors">Giada Coleschi. </span><span class="title">Gibberish and Ungrammaticality</span></div><div class="paper"><span class="authors"><span>Bas Kortenbach, Luca Incurvati and Julian Schlöder</span>. </span><span class="title">Multilateral Supervaluationism and Classicality</span></div><div class="paper"><span class="authors"><span><a href="http://sasander.wixsite.com/academic">Sam Sanders</a> and <a href="http://www.math.uio.no/~dnormann/">Dag Normann</a></span>. </span><span class="title">The Big, Bigger, and Biggest Five of Reverse Mathematics</span></div><div class="paper"><span class="authors"><a href="https://luddy.indiana.edu/contact/profile/?Daniel_Leivant">Daniel Leivant</a>. </span><span class="title">Finitism distilled</span></div><div class="paper"><span class="authors">Micol Pasti. </span><span class="title">Theory or metatheory? At What Level Should We Be Pluralists About Logic?</span></div><div class="paper"><span class="authors">Vit Puncochar. </span><span class="title">An algebraic representation of information types</span></div><div class="paper"><span class="authors">Tianyi Chu. </span><span class="title">A Logic of Topic-sensitive and Fragmented Hyperintensional Belief</span></div><div class="paper"><span class="authors"><span><a href="https://homepages.tuni.fi/kerkko.luosto/">Kerkko Luosto</a> and Lauri Hella</span>. </span><span class="title">Variants of the prenex normal form game</span></div><div class="paper"><span class="authors">Elio La Rosa. </span><span class="title">Epsilon Modal Logics</span></div><div class="paper"><span class="authors"><span>Haitian Wang, Malvin Gattinger and Avijeet Gosh</span>. </span><span class="title">How to represent a Kripke model? BDDs versus Mental Programs</span></div><div class="paper"><span class="authors"><a href="https://www.uu.nl/staff/SPandzic">Stipe Pandzic</a>. </span><span class="title">Inductive learning with first-order justification logic</span></div><div class="paper"><span class="authors">Ludovica Conti. </span><span class="title">Arbitrary Abstraction and Logicality</span></div><div class="paper"><span class="authors">Vera Koponen. </span><span class="title">Random Expansions of finite structures with bounded degree</span></div></body>
+### Programme ###
+
+#### Invited Talk Abstracts ####
 
 
 
+**Fausto Barbero (University of Helsinki)**
+
+*Title:* Causal models and their generalizations
+
+*Abstract:* The Structural Equation models considered in the field of causal inference describe causation in terms of functions that relate the behaviour of different magnitudes (variables). Galles and Pearl (1997) observed that the same framework supports a notion of (interventionist) counterfactual that differs from those offered by the philosophical literature, and to which many notions of causation can be reduced.
+
+I will give an overview of the logic literature on interventionist counterfactuals, starting with the classical results in the context of standard causal models. Next, I will point to some causality-related issues that are not represented in causal models, such as the interaction of observations and interventions, and the possibility of assuming indeterministic causal laws; and make a case that appropriate generalizations of team semantics and possible-world semantics may be good candidates for extending the formalization of causal discourse.
+
+-----------------------------------------------------------------------------------------------------
+
+**Sara Negri (University of Genoa)**
+
+*Title:* Second order well-behaved
+
+*Abstract:* Second-order logic extends the expressive power of first-order logic, allowing for the representation of properties that involve quantification over all subsets or families of subsets within a given structure, addressing a fundamental need in mathematical discourse. However, while offering significant advantages, full second-order logic faces challenges due to its impredicative nature and the absence of crucial metalogical properties, which complicates the development of proof systems. Our research tackles these challenges by introducing G3-style sequent calculi that incorporate a predicative comprehension schema, facilitating constructive cut-elimination proofs.  
+Expanding upon these calculi, we delve into the proof theory of mathematical theories, adapting methods from first-order calculi and establishing structural results for both classical and intuitionistic versions of the calculi. Additionally, we define extensional equality and apartness within second-order logic, demonstrating the ability to reduce mathematical concepts to pure logical terms. To illustrate, we present the theories of von Neumann–G¨odel–Bernays set theory and predicative second-order arithmetic. Moreover, we establish a variant of Herbrand’s theorem tailored for predicative second-order intuitionistic logic, demonstrating the conservativity of predicative second-order Heyting arithmetic over its first-order counterpart. Furthermore, we extend the interpolation theorem and modal embedding of intuitionistic logic to predicative second-order logic.
+
+----------------------------------------------------------------------------------------------------------
+
+**Aybüke Özgün (ILLC, University of Amsterdam)**
+
+*Title:* Imagination, Mereotopology, and Topic Expansion
+
+*Abstract:*  Intentional modals have recently received topic-sensitive treatment. One application involves the logic of imagination.  According to a prominent treatment by Berto (2018, 2022), the topic of the imaginative output must be contained within the topic of the imaginative input. That is, imaginative episodes can never expand what they are about. We argue that this
+constraint is implausible from a psychological point of view, and it wrongly predicts the falsehood of true reports of imagination. Thus the constraint should be relaxed; but how? In this work, we explore a number of direct approaches to relaxing the controversial content-inclusion constraint. The core idea is to consider adding an expansion operator to the mereology of topics. The logic that results depends on the formal constraints placed on topic expansion, the choice of which are subject to philosophical dispute. The first semantics we explore is a topological approach using a closure operator. The second approach uses an inclusive and monotone increasing operator, and we give a sound and complete axiomatisation for its logic. The third approach uses an inclusive and additive operator, and we show that the associated logic is strictly weaker than the previous two systems. 
+
+Time permitting, I will also elaborate on further generalizations of the topic-sensitive semantics of imagination and the applications of proposed topic expansion operators to knowledge, belief, and conditionals. The main part of this talk is based on joint work with Aaron J. Cotnoir. 
+
+---------------------------------------------------------------------------------------------------------------
+
+
+### Accepted Papers
+
+ | Authors | Title |
+ | ---- | ---- | 
+  | Alexander Gheorghiu, Tao Gu and David Pym  |  [A Note on an Inferentialist Approach to Resource Semantics](_SLSS_2024_abstracts/SLSS_2024_paper_1.pdf) |
+  | Bartosz Więckowski | [Proof-theoretic considerations on the structure of reasoning with counterfactuals and knowledge](_SLSS_2024_abstracts/SLSS_2024_paper_3.pdf) |  
+  | Bas Kortenbach, Luca Incurvati and Julian Schlöder  |  [Multilateral Supervaluationism and Classicality](_SLSS_2024_abstracts/SLSS_2024_paper_12.pdf) |
+  | Camillo Fiore | [Notational Variance in Substructural Logics](_SLSS_2024_abstracts/SLSS_2024_paper_9.pdf) |  
+  | Camillo Fiore and Bruno Da Ré |  [Maximally Substructural Classical Logic](_SLSS_2024_abstracts/SLSS_2024_paper_8.pdf) |
+  | Daniel Leivant  |  [Finitism distilled](_SLSS_2024_abstracts/SLSS_2024_paper_14.pdf) |
+  | Pawel Pawlowski and Daniel Skurt |  [Non-deterministic approach to modality](_SLSS_2024_abstracts/SLSS_2024_paper_5.pdf) |
+  | Elio La Rosa  |  [Epsilon Modal Logics](_SLSS_2024_abstracts/SLSS_2024_paper_19.pdf) |
+  | Giada Coleschi  |  [Gibberish and Ungrammaticality](_SLSS_2024_abstracts/SLSS_2024_paper_11.pdf) |
+  | Haitian Wang, Malvin Gattinger and Avijeet Gosh  |  [How to represent a Kripke model? BDDs versus Mental Programs](_SLSS_2024_abstracts/SLSS_2024_paper_20.pdf) |
+  | Kerkko Luosto and Lauri Hella  |  [Variants of the prenex normal form game](_SLSS_2024_abstracts/SLSS_2024_paper_18.pdf) |
+  | Karol Wapniarski  |  [The (Non)emptiness Problem: Ontological Assumptions of Traditional Logic from Aristotle to Gorge Boole](_SLSS_2024_abstracts/SLSS_2024_paper_7.pdf) |
+  | Ludovica Conti  |  [Arbitrary Abstraction and Logicality](_SLSS_2024_abstracts/SLSS_2024_paper_22.pdf) |
+  | Merel Semeijn  |  [Common ground beyond the grave](_SLSS_2024_abstracts/SLSS_2024_paper_2.pdf) |
+  | Micol Pasti  |  [Theory or metatheory? At What Level Should We Be Pluralists About Logic?](_SLSS_2024_abstracts/SLSS_2024_paper_15.pdf) |
+  | Pedro del Valle-Inclan  |  [Carnap's Problem, Definability and Compositionality](_SLSS_2024_abstracts/SLSS_2024_paper_10.pdf) |
+  | Pietro Vigiani  |  [Entailment and Containment: a Ternary and Contextual approach to Information and Topic Inclusion](_SLSS_2024_abstracts/SLSS_2024_paper_6.pdf) |
+  | Sam Sanders and Dag Normann |  [The Big, Bigger, and Biggest Five of Reverse Mathematics](_SLSS_2024_abstracts/SLSS_2024_paper_13.pdf) |
+  | Stipe Pandzic  |  [Inductive learning with first-order justification logic](_SLSS_2024_abstracts/SLSS_2024_paper_21.pdf) |
+  | Tianyi Chu  |  [A Logic of Topic-sensitive and Fragmented Hyperintensional Belief](_SLSS_2024_abstracts/SLSS_2024_paper_17.pdf) |
+  | Vera Koponen  |  [Random Expansions of finite structures with bounded degree](_SLSS_2024_abstracts/SLSS_2024_paper_23.pdf) |
+  | Vit Puncochar  |  [An algebraic representation of information types]((_SLSS_2024_abstracts/SLSS_2024_paper_16.pdf)) |
+
+
+#### Schedule  ####
+
+TBA soon
