@@ -35,4 +35,9 @@ Greg Restall (University of St Andrews)
 Jandson Ribeiro (Cardiff University)  
 Rineke Verbrugge (University of Groningen)
 
-More information to be announced soon.
+
+#### Registration ####
+
+Early registration deadline: May 24
+
+You can register [here](https://fienta.com/twelfth-scandinavian-logic-symposium-slss-2024).

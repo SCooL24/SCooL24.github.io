@@ -20,7 +20,7 @@ Submitted papers should not exceed 14 pages (excluding references and clearly ma
 | Paper submission deadline: ~~10 April 2024~~ 19 April 2024|
 | Acceptance notification: ~~10 May 2024~~ 15 May 2024 |
 | Camera-ready deadline: 10 June 2024 |
-| Early registration deadline: TBA |
+| Early registration deadline: 30 May 2024|
 | Conference dates: 19-21 June 2024 |
 
 <div class="datatable-end"></div>
