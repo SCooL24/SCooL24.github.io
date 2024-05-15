@@ -137,6 +137,9 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
   | Vera Koponen  |  [Random Expansions of finite structures with bounded degree](./_SLSS_2024_abstracts/SLSS_2024_paper_23.pdf) |
   | Vit Puncochar  |  [An algebraic representation of information types]((./_SLSS_2024_abstracts/SLSS_2024_paper_16.pdf)) |
 
+---------------------------------------------------------------------------------------------------------------
+
+
 
 #### Schedule  ####
 
