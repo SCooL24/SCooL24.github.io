@@ -84,3 +84,24 @@ The proceedings will be published by [Electronic Proceedings in Theoretical Comp
 
 The previous editions of GandALF already led to special issues of the International Journal of Foundations of Computer Science (GandALF 2010), Theoretical Computer Science (GandALF 2011 and 2012), Information and Computation (GandALF 2013, 2014, 2016, 2017, 2018, 2019, and 2020), Acta Informatica (GandALF 2015) and Logical Methods in Computer Science (GandALF 2021, 2022, and 2023).
 
+---------------------------------------------------------------------------------------------------------------
+
+
+## Accepted Papers
+
+ | Authors | Title |
+ | ---- | ---- | 
+ |Shaull Almagor and Ishai Salgado | Jumping Automata Must Pay |  
+ | Renato Acampora, Dario Della Monica, Luca Geatti, Nicola Gigante, Angelo Montanari and Pietro Sala | Synthesis of Timeline-Based Planning Strategies Avoiding Determinization|
+ | Emanuele Chini, Pietro Sala, Andrea Simonetti and Omid Zare | Reactive Synthesis for Expected Impacts |
+ | Linda Feeken and Martin Fränzle | Towards the Usage of Window Counting Constraints in the Synthesis of Reactive Systems to Reduce State Space Explosion |  
+ | Mathieu Lehaut and Nir Piterman | Adding Reconfiguration to Zielonka's Asynchronous Automata |  
+ | Dylan Leveille and Jason Jaskolka | A Game-Theoretic Approach for Security Control Selection |  
+ | Xiaolong Liang and Yì Nicholas Wáng | Epistemic Skills: Logical Dynamics of Knowing and Forgetting |  
+ | Jan Martens and Anton Wijs | An Evaluation of Massively Parallel Algorithms for DFA Minimization |  
+ | Keerthan Ravi, B Srivathsan, Venkatesh R and Sagar Verma | Deterministic Suffix-reading Automata |  
+ | Stephan Spengler | Reachability and Safety Games under TSO Semantics |  
+ 
+  
+
+---------------------------------------------------------------------------------------------------------------

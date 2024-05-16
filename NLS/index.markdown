@@ -79,3 +79,9 @@ As a prerequisite for the course, knowledge of propositional logic and basic mod
 -----------------------------------------------------------------------------------------------------
 
 
+
+#### Registration ####
+
+Early registration deadline: May 24
+
+You can register [here](https://fienta.com/twelfth-scandinavian-logic-symposium-slss-2024).
