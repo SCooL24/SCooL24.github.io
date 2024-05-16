@@ -30,44 +30,46 @@ Ana Ozaki (University of Bergen & University of Oslo)
 
 -------------------------------------------------------------------------------------------------
 
-Speaker: Miika Hannula (University of Helsinki)
+**Speaker: Miika Hannula (University of Helsinki)**
 
-Title: Model-theoretic perspectives on logics of dependence and independence
+*Title*: Model-theoretic perspectives on logics of dependence and independence
 
-Abstract: Logics of dependence and independence (LDI) are formalisms for modelling and reasoning about notions of dependence and independence in diverse contexts. The semantics of LDI is not defined with respect to single variable assignments, but sets of assignments called teams. The rationale is the following: A single sample of two variables x and y cannot tell us anything about their mutual dependencies. It is only through multiple samples that their underlying dependencies can become manifest. The team semantics of LDI extends this idea to a compositional interpretation of logical connectives and quantifiers.
+*Abstract*: Logics of dependence and independence (LDI) are formalisms for modelling and reasoning about notions of dependence and independence in diverse contexts. The semantics of LDI is not defined with respect to single variable assignments, but sets of assignments called teams. The rationale is the following: A single sample of two variables x and y cannot tell us anything about their mutual dependencies. It is only through multiple samples that their underlying dependencies can become manifest. The team semantics of LDI extends this idea to a compositional interpretation of logical connectives and quantifiers.
  
 In the first half of this course we review the basic concepts and results of LDI, and consider some of its model-theoretic properties such as compactness. In the second half, we move on to discuss logics for quantitative notions of dependence and independence, such as conditional independence in probability theory. Here, every variable assignment in a team is associated with a weight. Similarly, the relations of a model are replaced with weighted relations. A useful abstraction is to assume that these weights come from a fixed semiring. We consider how the interpretation of logical formulae generalises to such weighted models and teams, and examine the impact this broadening has on properties of finite models and teams.
 
 -------------------------------------------------------------------------------------------------
 
-Speaker: Sandra Kiefer (University of Oxford)  
+**Speaker: Sandra Kiefer (University of Oxford)**
 
-Title: TBA
+*Title*: TBA
 
-Abstract: TBA
+*Abstract*: TBA
+
 -------------------------------------------------------------------------------------------------
 
-Speaker: Greg Restall (University of St Andrews)  
+**Speaker: Greg Restall (University of St Andrews)**
 
-Title: Proof Theory for Classical, Constructive, Substructural and Modal Logics
+*Title*: Proof Theory for Classical, Constructive, Substructural and Modal Logics
 
-Abstract: In this course, I’ll introduce natural deduction and sequent calculus for classical, constructive and substructural logics, motivating and explaining how key results (normalisation for natural deduction proofs and cut elimination for sequent calculus derivations) may be proved, and how these interact with the presence or absence of the structural rules of weakening and contraction. We will also take a look at different proof systems designed to model modal and other intensional logics. Along the way we will see (1) the difference between multiplicative and additive rules for connectives (2) different ways to understand harmony between introduction and elimination rules (or left and right rules in the sequent calculus) (3) the ways in which rules for a connective may be understood as defining the concept introduced; (4) the connection between proof dynamics, dialogue and speech acts; (5) the relationship between proof search and model construction, and (6) connections between structural rules, paradoxes and fixed points.
+*Abstract*: In this course, I’ll introduce natural deduction and sequent calculus for classical, constructive and substructural logics, motivating and explaining how key results (normalisation for natural deduction proofs and cut elimination for sequent calculus derivations) may be proved, and how these interact with the presence or absence of the structural rules of weakening and contraction. We will also take a look at different proof systems designed to model modal and other intensional logics. Along the way we will see (1) the difference between multiplicative and additive rules for connectives (2) different ways to understand harmony between introduction and elimination rules (or left and right rules in the sequent calculus) (3) the ways in which rules for a connective may be understood as defining the concept introduced; (4) the connection between proof dynamics, dialogue and speech acts; (5) the relationship between proof search and model construction, and (6) connections between structural rules, paradoxes and fixed points.
 
 ----------------------------------------------------------------------------------------------------------
 
-Speaker: Jandson Ribeiro (Cardiff University) 
+**Speaker: Jandson Ribeiro (Cardiff University)** 
 
-Title: TBA
+*Title*: TBA
 
-Abstract: TBA
+*Abstract*: TBA
+
 -------------------------------------------------------------------------------------------------
 
 
-Speaker: Rineke Verbrugge (University of Groningen)
+**Speaker: Rineke Verbrugge (University of Groningen)**
 
-Title: From Epistemic Logic to Social Cognition
+*Title*: From Epistemic Logic to Social Cognition
 
-Abstract: Epistemic logic is the logic of knowledge: How do you reason about what you know and what others know? This logic appears to be crucial in describing negotiations in economics, parallel processors in computer science, and multi-agent systems in artificial intelligence. Epistemic logic is also philosophically and technically interesting: It has beautiful semantics. The lectures will deal with the following subjects from the area of epistemic logic: axiomatic systems and Kripke semantics for knowledge of multiple agents, beliefs, distributed knowledge, general knowledge and common knowledge, public announcement logic, and knowledge-based communication protocols.
+*Abstract*: Epistemic logic is the logic of knowledge: How do you reason about what you know and what others know? This logic appears to be crucial in describing negotiations in economics, parallel processors in computer science, and multi-agent systems in artificial intelligence. Epistemic logic is also philosophically and technically interesting: It has beautiful semantics. The lectures will deal with the following subjects from the area of epistemic logic: axiomatic systems and Kripke semantics for knowledge of multiple agents, beliefs, distributed knowledge, general knowledge and common knowledge, public announcement logic, and knowledge-based communication protocols.
 
 One of the main questions of the course will be in which way epistemic logic is an idealization, and how people actually reason about their own and other people's knowledge and beliefs, both in story situations where different participants have different perspectives as well as in competitive games and negotiations.
 
