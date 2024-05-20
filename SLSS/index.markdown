@@ -135,7 +135,7 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
   | Stipe Pandzic  |  [Inductive learning with first-order justification logic](abstracts/SLSS_2024_paper_21.pdf) |
   | Tianyi Chu  |  [A Logic of Topic-sensitive and Fragmented Hyperintensional Belief](abstracts/SLSS_2024_paper_17.pdf) |
   | Vera Koponen  |  [Random Expansions of finite structures with bounded degree](abstracts/SLSS_2024_paper_23.pdf) |
-  | V&iacute;t Puncoch&aacute;r  |  [An algebraic representation of information types](abstracts/SLSS_2024_paper_16.pdf) |
+  | Vit Puncochar  |  [An algebraic representation of information types](abstracts/SLSS_2024_paper_16.pdf) |
 
 ---------------------------------------------------------------------------------------------------------------
 
