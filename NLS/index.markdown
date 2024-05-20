@@ -42,9 +42,13 @@ In the first half of this course we review the basic concepts and results of LDI
 
 **Speaker: Sandra Kiefer (University of Oxford)**
 
-*Title*: TBA
+*Title*: Learning Properties on Graphs and Other Relational Structures
 
-*Abstract*: TBA
+*Abstract*: Graph Neural Networks (GNNs) are a machine learning architecture to learn functions on graphs. For example, since problem instances for combinatorial optimisation tasks are often modelled as graphs, GNNs have recently received attention as a natural framework for finding good heuristics in neural optimisation approaches. 
+
+The question which functions can actually be learnt by message-passing GNNs and which ones exceed their power links to the question of recognisability of (properties of) graphs, which has been studied extensively. In the main part of the course, we will consider this problem from the perspective of descriptive complexity. We will survey the expressivity of counting logics and use the expressivity limits to draw conclusions about the non-learnability of properties with GNNs.
+
+In the remaining time, we will focus on the feasible part and provide a more fine-grained analysis of the actual learnability of properties that can be expressed in logics. We transition from GNNs and counting logics to extensions of first-order logic and discuss the computational complexity of learning logical formulas on relational structures from examples.
 
 -------------------------------------------------------------------------------------------------
 
