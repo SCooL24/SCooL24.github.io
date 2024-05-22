@@ -143,9 +143,8 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
 
 ### Schedule  ###
 
-{% comment %}
+
 {:class="table table-bordered"}
-{% endcomment %}
 |  | Friday | Saturday | Sunday |
 | :- | :------ | :------ | :------ |
 | 8:30-8:50 | Registration |    |   |
@@ -162,7 +161,7 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
 | 15:00-15:30 | Coffee break | Coffee break | Coffee break |
 | 15:30-16:00 | *Stipe Pandžić.* Inductive learning with first-order justification logic | *Karol Wapniarski.* The (Non)emptiness Problem: Ontological Assumptions of Traditional Logic from Aristotle to Gorge Boole |  |
 | 16:00-16:30 | *Elio La Rosa.* Epsilon Modal Logics | *Pedro del Valle-Inclan.* Carnap's Problem, Definability and Compositionality |  |
-{:.mbtablestyle}
+
 
 
 
