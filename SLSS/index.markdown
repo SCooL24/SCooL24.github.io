@@ -143,7 +143,9 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
 
 ### Schedule  ###
 
+{% comment %}
 {:class="table table-bordered"}
+{% endcomment %}
 |  | Friday | Saturday | Sunday |
 | :- | :------ | :------ | :------ |
 | 8:30-8:50 | Registration |    |   |
