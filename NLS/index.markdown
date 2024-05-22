@@ -85,6 +85,26 @@ As a prerequisite for the course, knowledge of propositional logic and basic mod
 -----------------------------------------------------------------------------------------------------
 
 
+### Schedule  ###
+
+
+{:class="table table-bordered"}
+|  | Monday | Tuesday | Wednesday | Thursday |
+| :- | :------ | :------ | :------ | :------ |
+| 8:30-8:50 | Registration |    |   |        |
+| 8:50-9:00 | Welcome - opening |    |   |      |
+| 9:00-10:00 | Greg Restall | Greg Restall   | Greg Restall | Greg Restall |
+| 10:00-10:20 | Coffee break | Coffee break  | Coffee break  | Coffee break  |
+| 10:20-11:20 | Rineke Verbrugge | Rineke Verbrugge |  Rineke Verbrugge | Rineke Verbrugge | 
+| 11:20-11:40 | Coffee break | Coffee break  | Coffee break  | Coffee break  |
+| 11:40-12:40 |   Miika Hannula | Miika Hannula | Miika Hannula | Sandra Kiefer |
+| 12:40-14:00 | Lunch | Lunch | Lunch | Lunch |
+| 14:00-15:00 |   Miika Hannula | Sandra Kiefer | Sandra Kiefer | Sandra Kiefer |
+| 15:00-15:30 | Coffee break | Coffee break | Coffee break | Coffee break |
+| 15:30-16:30 |  Jandson Ribeiro | Jandson Ribeiro | Jandson Ribeiro | Jandson Ribeiro | 
+| 19:00-... |  | |  | Joint NLS and SLSS dinner at La Primavera |
+
+
 
 #### Registration ####
 
