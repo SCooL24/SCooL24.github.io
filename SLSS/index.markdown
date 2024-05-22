@@ -153,7 +153,7 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
 | 10:30-11:00 | *Alexander Gheorghiu, Tao Gu and David Pym.* A Note on an Inferentialist Approach to Resource Semantics | *Micol Pasti.* Theory or metatheory? At What Level Should We Be Pluralists About Logic? | *Vít Punčochář.* An algebraic representation of information types |
 | 11:00-11:30 | *Tianyi Chu.* A Logic of Topic-sensitive and Fragmented Hyperintensional Belief | *Ludovica Conti.* Arbitrary Abstraction and Logicality | *Kerkko Luosto and Lauri Hella.* Variants of the prenex normal form game |
 | 11:30-12:00 | *Pietro Vigiani.* Entailment and Containment: a Ternary and Contextual approach to Information and Topic Inclusion | *Giada Coleschi.* Gibberish and Ungrammaticality | *Vera Koponen.* Random Expansions Of Finite Structures With Bounded Degree |
-| 12:00-13:30 | lunch | lunch | lunch |
+| 12:00-13:30 | Lunch | Lunch | Lunch |
 | 13:30-14:00 | *Merel Semeijn.* Common ground beyond the grave | *Bas Kortenbach, Luca Incurvati and Julian Schlöder.* Multilateral Supervaluationism and Classicality | *Pawel Pawlowski and Daniel Skurt.* Non-deterministic approach to modality |
 | 14:00-14:30 | *Bartosz Więckowski.* Proof-theoretic considerations on the structure of reasoning with counterfactuals and knowledge | *Sam Sanders and Dag Normann.* The Big, Bigger, and Biggest Five of Reverse Mathematics | *Camillo Fiore and Bruno Da Ré.* Maximally Substructural Classical Logic |
 | 14:30-15:00 | *Haitian Wang, Malvin Gattinger and Avijeet Gosh.* How to represent a Kripke model? From BDDs to Mental Programs | *Daniel Leivant.* Finitism distilled | *Camillo Fiore.* Notational Variance in Substructural Logics |
