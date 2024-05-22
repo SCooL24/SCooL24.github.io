@@ -132,10 +132,10 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
   | Pedro del Valle-Inclan  |  [Carnap's Problem, Definability and Compositionality](abstracts/SLSS_2024_paper_10.pdf) |
   | Pietro Vigiani  |  [Entailment and Containment: a Ternary and Contextual approach to Information and Topic Inclusion](abstracts/SLSS_2024_paper_6.pdf) |
   | Sam Sanders and Dag Normann |  [The Big, Bigger, and Biggest Five of Reverse Mathematics](abstracts/SLSS_2024_paper_13.pdf) |
-  | Stipe Pandzic  |  [Inductive learning with first-order justification logic](abstracts/SLSS_2024_paper_21.pdf) |
+  | Stipe Pandžić  |  [Inductive learning with first-order justification logic](abstracts/SLSS_2024_paper_21.pdf) |
   | Tianyi Chu  |  [A Logic of Topic-sensitive and Fragmented Hyperintensional Belief](abstracts/SLSS_2024_paper_17.pdf) |
   | Vera Koponen  |  [Random Expansions of finite structures with bounded degree](abstracts/SLSS_2024_paper_23.pdf) |
-  | Vit Puncochar  |  [An algebraic representation of information types](abstracts/SLSS_2024_paper_16.pdf) |
+  | Vít Punčochář  |  [An algebraic representation of information types](abstracts/SLSS_2024_paper_16.pdf) |
 
 ---------------------------------------------------------------------------------------------------------------
 
@@ -158,7 +158,7 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
 | 14:00-14:30 | *Bartosz Więckowski.* Proof-theoretic considerations on the structure of reasoning with counterfactuals and knowledge | *Sam Sanders and Dag Normann.* The Big, Bigger, and Biggest Five of Reverse Mathematics | *Camillo Fiore and Bruno Da Ré.* Maximally Substructural Classical Logic |
 | 14:30-15:00 | *Haitian Wang, Malvin Gattinger and Avijeet Gosh.* How to represent a Kripke model? From BDDs to Mental Programs | *Daniel Leivant.* Finitism distilled | *Camillo Fiore.* Notational Variance in Substructural Logics |
 | 15:00-15:30 | Coffee break | Coffee break | Coffee break |
-| 15:30-16:00 | *Stipe Pandzic.* Inductive learning with first-order justification logic | *Karol Wapniarski.* The (Non)emptiness Problem: Ontological Assumptions of Traditional Logic from Aristotle to Gorge Boole |  |
+| 15:30-16:00 | *Stipe Pandžić.* Inductive learning with first-order justification logic | *Karol Wapniarski.* The (Non)emptiness Problem: Ontological Assumptions of Traditional Logic from Aristotle to Gorge Boole |  |
 | 16:00-16:30 | *Elio La Rosa.* Epsilon Modal Logics | *Pedro del Valle-Inclan.* Carnap's Problem, Definability and Compositionality |  |
 
 
