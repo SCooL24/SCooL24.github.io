@@ -110,7 +110,7 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
 ---------------------------------------------------------------------------------------------------------------
 
 
-### Accepted Papers
+### Accepted Papers ###
 
  | Authors | Title |
  | ---- | ---- | 
@@ -141,9 +141,10 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
 
 
 
-#### Schedule  ####
+### Schedule  ###
 
-| Time | Friday | Saturday | Sunday |
+{:class="table table-bordered"}
+|  | Friday | Saturday | Sunday |
 | ------ | ---- | ---- | ---- |
 | 8:30-8:50 | Registration |    |   |
 | 8:50-9:00 | Welcome - opening |    |   |
