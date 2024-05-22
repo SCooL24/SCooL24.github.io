@@ -144,7 +144,7 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
 #### Schedule  ####
 
 | Time | Friday | Saturday | Sunday |
-| ---- | ---- | ---- | ---- |
+| ------ | ---- | ---- | ---- |
 | 8:30-8:50 | Registration |    |   |
 | 8:50-9:00 | Welcome - opening |    |   |
 | 9:00-10:00 | *Aybüke Özgün.* TBA | *Fausto Barbero.* Causal models and their generalizations   | *Sara Negri.* Second-order well-behaved  |
