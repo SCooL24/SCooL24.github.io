@@ -149,7 +149,7 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
 | :- | :------ | :------ | :------ |
 | 8:30-8:50 | Registration |    |   |
 | 8:50-9:00 | Welcome - opening |    |   |
-| 9:00-10:00 | *Aybüke Özgün.* TBA | *Fausto Barbero.* Causal models and their generalizations   | *Sara Negri.* Second-order well-behaved  |
+| 9:00-10:00 | *Aybüke Özgün.* Imagination, Mereotopology, and Topic Expansion | *Fausto Barbero.* Causal models and their generalizations   | *Sara Negri.* Second-order well-behaved  |
 | 10:00-10:30 | Coffee break | Coffee break  | Coffee break  |
 | 10:30-11:00 | *Alexander Gheorghiu, Tao Gu and David Pym.* A Note on an Inferentialist Approach to Resource Semantics | *Micol Pasti.* Theory or metatheory? At What Level Should We Be Pluralists About Logic? | *Vít Punčochář.* An algebraic representation of information types |
 | 11:00-11:30 | *Tianyi Chu.* A Logic of Topic-sensitive and Fragmented Hyperintensional Belief | *Ludovica Conti.* Arbitrary Abstraction and Logicality | *Kerkko Luosto and Lauri Hella.* Variants of the prenex normal form game |
