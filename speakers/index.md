@@ -23,6 +23,7 @@ Abstract:  Incorrectness Logic (IL) has recently been advanced as a logical unde
 Inspired by this success, we later studied the power of under-approximation for detecting non-termination bugs. Program termination is a classic non-safety property that cannot in general be witnessed by a finite trace. This makes testing for non-termination challenging, and also makes it a natural target for symbolic proof.  Discovering non-termination is an under-approximate problem. We thus developed an under-approximate logic for proving non-termination, resulting in a compositional proof method. We prototyped this in an automated tool, Pulse∞ (an extension of Pulse), which has already discovered a number of non-termination bugs in large open-source libraries.
 
 --------------------------------------------------------------------------------------------------------------------------
+
 Speaker: [Bernd Finkbeiner](https://cispa.de/en/people/finkbeiner)
 
 Title: Hyperproperties: the exciting world beyond k-hypersafety
