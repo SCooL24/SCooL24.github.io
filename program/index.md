@@ -1,8 +1,8 @@
 ---
-layout: program
+layout: home
 title: Schedule
 ---
-<div class="alert alert-success alert-dismissible fade show" role="alert">
+<!-- <div class="alert alert-success alert-dismissible fade show" role="alert">
     <h4 class="alert-heading">Time zone</h4>
         All times are Icelandic time: GMT/UTC.
   <button type="button" class="close" data-dismiss="alert" aria-label="Close">
@@ -22,4 +22,4 @@ title: Schedule
   </button>
 </div>
 
-An overview of the talks is available [here](/lc2022/talks), and you can find the list of all abstracts [there](/lc2022/talks/LC_2022_Abstracts.pdf).
+An overview of the talks is available [here](/lc2022/talks), and you can find the list of all abstracts [there](/lc2022/talks/LC_2022_Abstracts.pdf).-->
