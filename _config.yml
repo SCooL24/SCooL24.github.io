@@ -127,7 +127,7 @@ conference:
         - name: Invited Speakers
          # disabled: true
           relative_url: /speakers/
-        - name: Program
+        - name: Programme
          # disabled: true
           relative_url: /program/
  # bGDWhYOEbyOoVye
