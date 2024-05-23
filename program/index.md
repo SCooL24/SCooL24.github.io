@@ -23,3 +23,14 @@ title: Schedule
 </div>
 
 An overview of the talks is available [here](/lc2022/talks), and you can find the list of all abstracts [there](/lc2022/talks/LC_2022_Abstracts.pdf).-->
+
+|  | Wednesday | Thursday | Friday |
+| --- | --- | --- | --- |
+9:30-10:30 | Azalea Raad | Kim G. Larsen. Shielded Reinforcement Learning for Safe and Optimal Cyber Physical Systems | Bernd Finkbeiner |
+10:30-11:00 | Coffee break | Coffee break | Coffee break |
+11:00-11:30 | Shaull Almagor and Ishai Salgado. Jumping Automata Must Pay | Dylan Leveille and Jason Jaskolka. A Game-Theoretic Approach for Security Control Selection | Brigitte Pientka |
+11:30-12:00 | Mathieu Lehaut and Nir Piterman. Adding Reconfiguration to Zielonka's Asynchronous Automata | Stephan Spengler. Reachability and Safety Games under TSO Semantics | Brigitte Pientka |
+12:00-14:00 | Lunch break | Lunch break | Lunch and end |
+14:00-14:30 | Jan Martens and Anton Wijs. An Evaluation of Massively Parallel Algorithms for DFA Minimization | Linda Feeken and Martin Fränzle. Towards the Usage of Window Counting Constraints in the Synthesis of Reactive Systems to Reduce State Space Explosion  | |
+14:30-15:00 | Keerthan Ravi, B Srivathsan, Venkatesh R and Sagar Verma. Deterministic Suffix-reading Automata | Renato Acampora, Dario Della Monica, Luca Geatti, Nicola Gigante, Angelo Montanari and Pietro Sala. Synthesis of Timeline-Based Planning Strategies Avoiding Determinization  | |
+15:00-15:30 | Xiaolong Liang and Yì Nicholas Wáng. Epistemic Skills: Logical Dynamics of Knowing and Forgetting | Emanuele Chini, Pietro Sala, Andrea Simonetti and Omid Zare. Reactive Synthesis for Expected Impacts | |
