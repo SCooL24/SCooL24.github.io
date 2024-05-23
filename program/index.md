@@ -27,7 +27,7 @@ An overview of the talks is available [here](/lc2022/talks), and you can find th
 {:class="table table-bordered"}
 |  | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- |
-9:30-10:30 | **Invited talk**  *Azalea Raad.* Bug Detection at Scale | **Invited talk**  *Kim G. Larsen.* Shielded Reinforcement Learning for Safe and Optimal Cyber Physical Systems | **Invited talk**  *Bernd Finkbeiner.* Hyperproperties: the exciting world beyond k-hypersafety |
+9:30-10:30 | **Invited talk** <br />  *Azalea Raad.* Bug Detection at Scale | **Invited talk**  *Kim G. Larsen.* Shielded Reinforcement Learning for Safe and Optimal Cyber Physical Systems | **Invited talk**  *Bernd Finkbeiner.* Hyperproperties: the exciting world beyond k-hypersafety |
 10:30-11:00 | Coffee break | Coffee break | Coffee break |
 11:00-11:30 | *Shaull Almagor and Ishai Salgado.* Jumping Automata Must Pay | *Dylan Leveille and Jason Jaskolka.* A Game-Theoretic Approach for Security Control Selection | **Invited talk**   *Brigitte Pientka.* TBA |
 11:30-12:00 | *Mathieu Lehaut and Nir Piterman.* Adding Reconfiguration to Zielonka's Asynchronous Automata | *Stephan Spengler.* Reachability and Safety Games under TSO Semantics ^| **Invited talk**  *Brigitte Pientka*. TBA |
