@@ -128,10 +128,8 @@ conference:
          # disabled: true
           relative_url: /speakers/
         - name: Program
-          disabled: true
-          menu:
-          - name: Schedule
-            relative_url: /program/
+         # disabled: true
+          relative_url: /program/
  # bGDWhYOEbyOoVye
       - name: Location
         relative_url: /location/
