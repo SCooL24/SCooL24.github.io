@@ -152,7 +152,7 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
 | 9:00-10:00<br/> Invited talks: | *Aybüke Özgün.* Imagination, Mereotopology, and Topic Expansion | *Fausto Barbero.* Causal models and their generalizations   | *Sara Negri.* Second-order well-behaved  |
 | 10:00-10:30 | Coffee break | Coffee break  | Coffee break  |
 | 10:30-11:00 | *Alexander Gheorghiu, Tao Gu and David Pym.* A Note on an Inferentialist Approach to Resource Semantics | *Micol Pasti.* Theory or metatheory? At What Level Should We Be Pluralists About Logic? | *Vít Punčochář.* An algebraic representation of information types |
-| 11:00-11:30 | *Tianyi Chu.* A Logic of Topic-sensitive and Fragmented Hyperintensional Belief | *Ludovica Conti.* Arbitrary Abstraction and Logicality | *Kerkko Luosto and Lauri Hella.* Variants of the prenex normal form game |
+| 11:00-11:30 | *Tianyi Chu.* A Logic of Topic-sensitive and Fragmented Hyperintensional Belief | *Pietro Vigiani.* Entailment and Containment: a Ternary and Contextual approach to Information and Topic Inclusion | *Kerkko Luosto and Lauri Hella.* Variants of the prenex normal form game |
 | 11:30-12:00 | *Elio La Rosa.* Epsilon Modal Logics  | *Giada Coleschi.* Gibberish and Ungrammaticality | *Vera Koponen.* Random Expansions Of Finite Structures With Bounded Degree |
 | 12:00-13:30 | Lunch | Lunch | Lunch |
 | 13:30-14:00 | *Merel Semeijn.* Common ground beyond the grave | *Bas Kortenbach, Luca Incurvati and Julian Schlöder.* Multilateral Supervaluationism and Classicality | *Pawel Pawlowski and Daniel Skurt.* Non-deterministic approach to modality |
@@ -161,7 +161,7 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
 | 15:00-15:30 | *Haitian Wang, Malvin Gattinger and Avijeet Gosh.* How to represent a Kripke model? From BDDs to Mental Programs | Coffee break |  |
 | 15:30-16:00 | *Stipe Pandžić.* Inductive learning with first-order justification logic | *Karol Wapniarski.* The (Non)emptiness Problem: Ontological Assumptions of Traditional Logic from Aristotle to Gorge Boole |  |
 | 16:00-16:30 | | *Pedro del Valle-Inclan.* Carnap's Problem, Definability and Compositionality |  |
-| 16:30-17:00 | | *Pietro Vigiani.* Entailment and Containment: a Ternary and Contextual approach to Information and Topic Inclusion | |
+
 
 
 
