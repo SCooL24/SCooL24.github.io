@@ -62,9 +62,9 @@ In the remaining time, we will focus on the feasible part and provide a more fin
 
 **Speaker: Jandson Ribeiro (Cardiff University)** 
 
-*Title*: TBA
+*Title*: Belief Change: Foundations and Frontiers
 
-*Abstract*: TBA
+*Abstract*: Belief Change, also dubbed Belief Revision and Belief Dynamics, studies how a corpus of beliefs should be rationally modified. This interdisciplinary field crosses philosophy, computer science and artificial intelligence. In this series of lectures, we will delve into the foundations of belief change and make our way through to recent research questions. We will start with the seminal paradigm of belief change, the AGM paradigm (named after its founders Alchourrón, Gärdenfors, and Makinson), within classical logics. In the second part of the lectures, we will discuss more recent works of belief change in non-classical logic, its implications, challenges and open research questions. The main goal is to provide a solid understanding of the field, from its origin to the more up-to-date research questions.
 
 -------------------------------------------------------------------------------------------------
 
