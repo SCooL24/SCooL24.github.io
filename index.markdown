@@ -15,7 +15,7 @@ The event is supported by:
 
 ![alt text for screen readers](img/Reykjavik_University_Logo.svg.png){:height="100px" width="100px"}&nbsp;&nbsp;&nbsp;&nbsp;
 ![alt text for screen readers](img/Association_for_Symbolic_Logic_Logo.svg.png){:height="100px" width="100px"}&nbsp;&nbsp;&nbsp;&nbsp;
-![alt text for screen readers](img/ICE-TCS-logo-inversed-300px.png)
+![alt text for screen readers](img/ICE-TCS-logo-basic-200px.png)
 
 <br />
 <br />
