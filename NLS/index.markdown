@@ -104,7 +104,7 @@ As a prerequisite for the course, knowledge of propositional logic and basic mod
 | 15:30-16:30 |  Jandson Ribeiro | Jandson Ribeiro | Jandson Ribeiro | Jandson Ribeiro | 
 | 19:00-... |  | |  | Joint NLS and SLSS dinner at La Primavera |
 
-</br>
+
 **Rooms**  
 M106 on Monday and Tuesday  
 M103 on Wednesday
