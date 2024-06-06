@@ -38,7 +38,8 @@ An overview of the talks is available [here](/lc2022/talks), and you can find th
 14:30-15:00 | *Keerthan Ravi, B Srivathsan, Venkatesh R and Sagar Verma.* Deterministic Suffix-reading Automata | *Renato Acampora, Dario Della Monica, Luca Geatti, Nicola Gigante, Angelo Montanari and Pietro Sala.* Synthesis of Timeline-Based Planning Strategies Avoiding Determinization  | |
 15:00-15:30 | *Xiaolong Liang and Yì Nicholas Wáng.* Epistemic Skills: Logical Dynamics of Knowing and Forgetting | *Emanuele Chini, Pietro Sala, Andrea Simonetti and Omid Zare.* Reactive Synthesis for Expected Impacts | |
 
-**Room:** M103
+**Room:** M103  
+The room is on the ground floor (1st floor) of the building. Maps of the building can be found [here](https://en.ru.is/campus/).
 
 
 
