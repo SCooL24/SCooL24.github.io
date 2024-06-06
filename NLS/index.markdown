@@ -107,8 +107,8 @@ As a prerequisite for the course, knowledge of propositional logic and basic mod
 
 **Rooms**  
 M106 on Monday and Tuesday  
-M103 on Wednesday
-
+M103 on Wednesday  
+The rooms are on the ground floor (1st floor) of the building. Maps of the building can be found [here](https://en.ru.is/campus/).
 
 
 #### Registration ####
