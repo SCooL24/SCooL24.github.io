@@ -162,7 +162,8 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
 | 15:30-16:00 | *Stipe Pandžić.* Inductive learning with first-order justification logic | *Karol Wapniarski.* The (Non)emptiness Problem: Ontological Assumptions of Traditional Logic from Aristotle to Gorge Boole |  |
 | 16:00-16:30 | | *Pedro del Valle-Inclan.* Carnap's Problem, Definability and Compositionality |  |
 
-**Room:** M103
+**Room:** M103  
+The room is on the ground floor (1st floor) of the building. Maps of the building can be found [here](https://en.ru.is/campus/).
 
 
 
