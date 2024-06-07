@@ -166,6 +166,9 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
 The room is on the ground floor (1st floor) of the building. Maps of the building can be found [here](https://en.ru.is/campus/).
 
 
+**The NLS and SLSS dinner** takes place on Thursday 13/6 at 7 pm at [*La Primavera*](https://laprimavera.is/harpa/?lang=en) restaurant at Harpa.
+For directions, see [here](https://maps.app.goo.gl/ZzorMgfFuHTqzvD26).
+
 
 
 
