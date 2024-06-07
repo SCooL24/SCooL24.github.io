@@ -155,12 +155,12 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
 | 11:00-11:30 | *Tianyi Chu.* A Logic of Topic-sensitive and Fragmented Hyperintensional Belief | *Pietro Vigiani.* Entailment and Containment: a Ternary and Contextual approach to Information and Topic Inclusion | *Kerkko Luosto and Lauri Hella.* Variants of the prenex normal form game |
 | 11:30-12:00 | *Elio La Rosa.* Epsilon Modal Logics  | *Giada Coleschi.* Gibberish and Ungrammaticality | *Vera Koponen.* Random Expansions Of Finite Structures With Bounded Degree |
 | 12:00-13:30 | Lunch | Lunch | Lunch |
-| 13:30-14:00 | *Merel Semeijn.* Common ground beyond the grave | *Bas Kortenbach, Luca Incurvati and Julian Schlöder.* Multilateral Supervaluationism and Classicality | *Pawel Pawlowski and Daniel Skurt.* Non-deterministic approach to modality |
-| 14:00-14:30 | *Bartosz Więckowski.* Proof-theoretic considerations on the structure of reasoning with counterfactuals and knowledge | *Sam Sanders and Dag Normann.* The Big, Bigger, and Biggest Five of Reverse Mathematics | *Camillo Fiore and Bruno Da Ré.* Maximally Substructural Classical Logic |
-| 14:30-15:00 | Coffee break | *Daniel Leivant.* Finitism distilled | *Camillo Fiore.* Notational Variance in Substructural Logics |
-| 15:00-15:30 | *Haitian Wang, Malvin Gattinger and Avijeet Gosh.* How to represent a Kripke model? From BDDs to Mental Programs | Coffee break |  |
-| 15:30-16:00 | *Stipe Pandžić.* Inductive learning with first-order justification logic | *Karol Wapniarski.* The (Non)emptiness Problem: Ontological Assumptions of Traditional Logic from Aristotle to Gorge Boole |  |
-| 16:00-16:30 | | *Pedro del Valle-Inclan.* Carnap's Problem, Definability and Compositionality |  |
+| 13:30-14:00 | *Haitian Wang, Malvin Gattinger and Avijeet Gosh.* How to represent a Kripke model? From BDDs to Mental Programs | *Bas Kortenbach, Luca Incurvati and Julian Schlöder.* Multilateral Supervaluationism and Classicality | *Pawel Pawlowski and Daniel Skurt.* Non-deterministic approach to modality |
+| 14:00-14:30 | *Stipe Pandžić.* Inductive learning with first-order justification logic | *Daniel Leivant.* Finitism distilled | *Camillo Fiore and Bruno Da Ré.* Maximally Substructural Classical Logic |
+| 14:30-15:00 | Coffee break | *Sam Sanders and Dag Normann.* The Big, Bigger, and Biggest Five of Reverse Mathematics | *Camillo Fiore.* Notational Variance in Substructural Logics |
+| 15:00-15:30 | *Bartosz Więckowski.* Proof-theoretic considerations on the structure of reasoning with counterfactuals and knowledge |  |  |
+| 15:30-16:00 | *Karol Wapniarski.* The (Non)emptiness Problem: Ontological Assumptions of Traditional Logic from Aristotle to Gorge Boole |  |  |
+| 16:00-16:30 | *Pedro del Valle-Inclan.* Carnap's Problem, Definability and Compositionality |  |  |
 
 **Room:** M103  
 The room is on the ground floor (1st floor) of the building. Maps of the building can be found [here](https://en.ru.is/campus/).
