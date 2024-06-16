@@ -41,6 +41,14 @@ An overview of the talks is available [here](/lc2022/talks), and you can find th
 **Room:** M103  
 The room is on the ground floor (1st floor) of the building. Maps of the building can be found [here](https://en.ru.is/campus/).
 
+#### Dinner and social event ####
+
+The dinner takes place on Wednesday at Nauthóll, which is close to Reykjavik University, [there](https://maps.app.goo.gl/Z5vW3NgSsHgmtVjT8).   
+
+On Thursday we will go on a whale watching tour starting from the Old Harbour of Reykjavik. We will meet [at this place](https://maps.app.goo.gl/tfFebtV9fTMZnRRR9). The tour last approximately 3 hours. We will announce the time soon.
+
+
+
 
 
 
