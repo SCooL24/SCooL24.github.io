@@ -45,7 +45,7 @@ The room is on the ground floor (1st floor) of the building. Maps of the buildin
 
 The dinner takes place on Wednesday at Nauthóll, which is close to Reykjavik University, [there](https://maps.app.goo.gl/Z5vW3NgSsHgmtVjT8). It will start at 19:00.  
 
-On Thursday we will go on a whale watching tour starting from the Old Harbour of Reykjavik. We will meet [at this place](https://maps.app.goo.gl/tfFebtV9fTMZnRRR9). We will announce the time soon. The tour lasts approximately 3 hours. 
+On Thursday we will go on a whale watching tour starting from the Old Harbour of Reykjavik at 17:00. We will meet [at this place](https://maps.app.goo.gl/tfFebtV9fTMZnRRR9) at 16:30.  The tour lasts approximately 3 hours.
 
 
 
