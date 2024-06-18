@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Schedule
+title: Schedule for GandALF
 ---
 <!-- <div class="alert alert-success alert-dismissible fade show" role="alert">
     <h4 class="alert-heading">Time zone</h4>
