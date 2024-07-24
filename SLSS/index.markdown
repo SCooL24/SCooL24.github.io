@@ -133,7 +133,7 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
   | Micol Pasti  |  [Theory or metatheory? At What Level Should We Be Pluralists About Logic?](abstracts/SLSS_2024_paper_15.pdf) |
   | Pedro del Valle-Inclan  |  [Carnap's Problem, Definability and Compositionality](abstracts/SLSS_2024_paper_10.pdf), [slides](slides_paper_10.pdf) |
   | Pietro Vigiani  |  [Entailment and Containment: a Ternary and Contextual approach to Information and Topic Inclusion](abstracts/SLSS_2024_paper_6.pdf), [slides](slides_paper_6.pdf) |
-  | Sam Sanders and Dag Normann |  [The Big, Bigger, and Biggest Five of Reverse Mathematics](abstracts/SLSS_2024_paper_13.pdf) |
+  | Sam Sanders and Dag Normann |  [The Big, Bigger, and Biggest Five of Reverse Mathematics](abstracts/SLSS_2024_paper_13.pdf), [slides](slides_paper_13.pdf) |
   | Stipe Pandžić  |  [Inductive learning with first-order justification logic](abstracts/SLSS_2024_paper_21.pdf) |
   | Tianyi Chu  |  [A Logic of Topic-sensitive and Fragmented Hyperintensional Belief](abstracts/SLSS_2024_paper_17.pdf) |
   | Vera Koponen  |  [Random Expansions of finite structures with bounded degree](abstracts/SLSS_2024_paper_23.pdf), [slides](slides_paper_23.pdf) |
