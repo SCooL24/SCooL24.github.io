@@ -116,7 +116,7 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
  | ---- | ---- | 
   | Alexander Gheorghiu, Tao Gu and David Pym  |  [A Note on an Inferentialist Approach to Resource Semantics](abstracts/SLSS_2024_paper_1.pdf)  |
   | Bartosz Więckowski | [Proof-theoretic considerations on the structure of reasoning with counterfactuals and knowledge](abstracts/SLSS_2024_paper_3.pdf) |  
-  | Bas Kortenbach, Luca Incurvati and Julian Schlöder  |  [Multilateral Supervaluationism and Classicality](abstracts/SLSS_2024_paper_12.pdf) |
+  | Bas Kortenbach, Luca Incurvati and Julian Schlöder  |  [Multilateral Supervaluationism and Classicality](abstracts/SLSS_2024_paper_12.pdf), [slides](slides_paper_12) |
   | Camillo Fiore | [Notational Variance in Substructural Logics](abstracts/SLSS_2024_paper_9.pdf) |  
   | Camillo Fiore and Bruno Da Ré |  [Maximally Substructural Classical Logic](abstracts/SLSS_2024_paper_8.pdf) |
   | Daniel Leivant  |  [Finitism distilled](abstracts/SLSS_2024_paper_14.pdf) |
