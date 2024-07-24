@@ -36,7 +36,7 @@ An overview of the talks is available [here](/lc2022/talks), and you can find th
 11:30-12:00 | *Mathieu Lehaut and Nir Piterman.* Adding Reconfiguration to Zielonka's Asynchronous Automata, [slides](slides_Mathieu_Lehaut.pdf) | *Stephan Spengler.* Reachability and Safety Games under TSO Semantics | **Invited talk**  <br /> *Brigitte Pientka.* Mechanizing Session-Types: Challenges and Lessons Learned   |
 12:00-13:30 | Lunch break | Lunch break | Lunch and end |
 13:30-14:00 | *Jan Martens and Anton Wijs.* An Evaluation of Massively Parallel Algorithms for DFA Minimization, [slides](slides_Jan_Martens.pdf) | *Linda Feeken and Martin Fränzle.* Towards the Usage of Window Counting Constraints in the Synthesis of Reactive Systems to Reduce State Space Explosion, [slides](slides_Linda_Feeken.pdf)  | |
-14:00-14:30 | *Keerthan Ravi, B Srivathsan, Venkatesh R and Sagar Verma.* Deterministic Suffix-reading Automata | *Renato Acampora, Dario Della Monica, Luca Geatti, Nicola Gigante, Angelo Montanari and Pietro Sala.* Synthesis of Timeline-Based Planning Strategies Avoiding Determinization, [slides](slides_Dario_Della_Monica.pdf)  | |
+14:00-14:30 | *Ravi Keerthan, B Srivathsan, R Venkatesh and Sagar Verma.* Deterministic Suffix-reading Automata | *Renato Acampora, Dario Della Monica, Luca Geatti, Nicola Gigante, Angelo Montanari and Pietro Sala.* Synthesis of Timeline-Based Planning Strategies Avoiding Determinization, [slides](slides_Dario_Della_Monica.pdf)  | |
 14:30-15:00 | *Xiaolong Liang and Yì Nicholas Wáng.* Epistemic Skills: Logical Dynamics of Knowing and Forgetting, [slides](slides_Yi_Wang.pdf) | *Emanuele Chini, Pietro Sala, Andrea Simonetti and Omid Zare.* Reactive Synthesis for Expected Impacts | |
 
 
