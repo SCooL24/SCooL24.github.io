@@ -105,7 +105,9 @@ Expanding upon these calculi, we delve into the proof theory of mathematical the
 *Abstract:*  Intentional modals have recently received topic-sensitive treatment. One application involves the logic of imagination.  According to a prominent treatment by Berto (2018, 2022), the topic of the imaginative output must be contained within the topic of the imaginative input. That is, imaginative episodes can never expand what they are about. We argue that this
 constraint is implausible from a psychological point of view, and it wrongly predicts the falsehood of true reports of imagination. Thus the constraint should be relaxed; but how? In this work, we explore a number of direct approaches to relaxing the controversial content-inclusion constraint. The core idea is to consider adding an expansion operator to the mereology of topics. The logic that results depends on the formal constraints placed on topic expansion, the choice of which are subject to philosophical dispute. The first semantics we explore is a topological approach using a closure operator. The second approach uses an inclusive and monotone increasing operator, and we give a sound and complete axiomatisation for its logic. The third approach uses an inclusive and additive operator, and we show that the associated logic is strictly weaker than the previous two systems. 
 
-Time permitting, I will also elaborate on further generalizations of the topic-sensitive semantics of imagination and the applications of proposed topic expansion operators to knowledge, belief, and conditionals. The main part of this talk is based on joint work with Aaron J. Cotnoir. 
+Time permitting, I will also elaborate on further generalizations of the topic-sensitive semantics of imagination and the applications of proposed topic expansion operators to knowledge, belief, and conditionals. The main part of this talk is based on joint work with Aaron J. Cotnoir.  
+
+[slides](slides_invited_talk_3)
 
 ---------------------------------------------------------------------------------------------------------------
 
@@ -117,25 +119,25 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
   | Alexander Gheorghiu, Tao Gu and David Pym  |  [A Note on an Inferentialist Approach to Resource Semantics](abstracts/SLSS_2024_paper_1.pdf)  |
   | Bartosz Więckowski | [Proof-theoretic considerations on the structure of reasoning with counterfactuals and knowledge](abstracts/SLSS_2024_paper_3.pdf) |  
   | Bas Kortenbach, Luca Incurvati and Julian Schlöder  |  [Multilateral Supervaluationism and Classicality](abstracts/SLSS_2024_paper_12.pdf), [slides](slides_paper_12.pdf) |
-  | Camillo Fiore | [Notational Variance in Substructural Logics](abstracts/SLSS_2024_paper_9.pdf) |  
-  | Camillo Fiore and Bruno Da Ré |  [Maximally Substructural Classical Logic](abstracts/SLSS_2024_paper_8.pdf) |
+  | Camillo Fiore | [Notational Variance in Substructural Logics](abstracts/SLSS_2024_paper_9.pdf), [slides](slides_paper_9.pdf) |  
+  | Camillo Fiore and Bruno Da Ré |  [Maximally Substructural Classical Logic](abstracts/SLSS_2024_paper_8.pdf), [slides](slides_paper_8.pdf) |
   | Daniel Leivant  |  [Finitism distilled](abstracts/SLSS_2024_paper_14.pdf) |
   | Pawel Pawlowski and Daniel Skurt |  [Non-deterministic approach to modality](abstracts/SLSS_2024_paper_5.pdf) |
-  | Elio La Rosa  |  [Epsilon Modal Logics](abstracts/SLSS_2024_paper_19.pdf) |
+  | Elio La Rosa  |  [Epsilon Modal Logics](abstracts/SLSS_2024_paper_19.pdf), [slides](slides_paper_19.pdf) |
   | Giada Coleschi  |  [Gibberish and Ungrammaticality](abstracts/SLSS_2024_paper_11.pdf) |
   | Haitian Wang, Malvin Gattinger and Avijeet Gosh  |  [How to represent a Kripke model? BDDs versus Mental Programs](abstracts/SLSS_2024_paper_20.pdf) |
-  | Kerkko Luosto and Lauri Hella  |  [Variants of the prenex normal form game](abstracts/SLSS_2024_paper_18.pdf) |
+  | Kerkko Luosto and Lauri Hella  |  [Variants of the prenex normal form game](abstracts/SLSS_2024_paper_18.pdf), [slides](slides_paper_18.pdf) |
   | Karol Wapniarski  |  [The (Non)emptiness Problem: Ontological Assumptions of Traditional Logic from Aristotle to Gorge Boole](abstracts/SLSS_2024_paper_7.pdf) |
   | Ludovica Conti  |  [Arbitrary Abstraction and Logicality](abstracts/SLSS_2024_paper_22.pdf) |
   | Merel Semeijn  |  [Common ground beyond the grave](abstracts/SLSS_2024_paper_2.pdf) |
   | Micol Pasti  |  [Theory or metatheory? At What Level Should We Be Pluralists About Logic?](abstracts/SLSS_2024_paper_15.pdf) |
-  | Pedro del Valle-Inclan  |  [Carnap's Problem, Definability and Compositionality](abstracts/SLSS_2024_paper_10.pdf) |
-  | Pietro Vigiani  |  [Entailment and Containment: a Ternary and Contextual approach to Information and Topic Inclusion](abstracts/SLSS_2024_paper_6.pdf) |
+  | Pedro del Valle-Inclan  |  [Carnap's Problem, Definability and Compositionality](abstracts/SLSS_2024_paper_10.pdf), [slides](slides_paper_10.pdf) |
+  | Pietro Vigiani  |  [Entailment and Containment: a Ternary and Contextual approach to Information and Topic Inclusion](abstracts/SLSS_2024_paper_6.pdf), [slides](slides_paper_6.pdf) |
   | Sam Sanders and Dag Normann |  [The Big, Bigger, and Biggest Five of Reverse Mathematics](abstracts/SLSS_2024_paper_13.pdf) |
   | Stipe Pandžić  |  [Inductive learning with first-order justification logic](abstracts/SLSS_2024_paper_21.pdf) |
   | Tianyi Chu  |  [A Logic of Topic-sensitive and Fragmented Hyperintensional Belief](abstracts/SLSS_2024_paper_17.pdf) |
-  | Vera Koponen  |  [Random Expansions of finite structures with bounded degree](abstracts/SLSS_2024_paper_23.pdf) |
-  | Vít Punčochář  |  [An algebraic representation of information types](abstracts/SLSS_2024_paper_16.pdf) |
+  | Vera Koponen  |  [Random Expansions of finite structures with bounded degree](abstracts/SLSS_2024_paper_23.pdf), [slides](slides_paper_23.pdf) |
+  | Vít Punčochář  |  [An algebraic representation of information types](abstracts/SLSS_2024_paper_16.pdf), [slides](slides_paper_16.pdf) |
 
 ---------------------------------------------------------------------------------------------------------------
 
