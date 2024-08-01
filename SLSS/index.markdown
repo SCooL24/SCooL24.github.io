@@ -87,7 +87,7 @@ Conference: 14-16 June, 2024
 
 I will give an overview of the logic literature on interventionist counterfactuals, starting with the classical results in the context of standard causal models. Next, I will point to some causality-related issues that are not represented in causal models, such as the interaction of observations and interventions, and the possibility of assuming indeterministic causal laws; and make a case that appropriate generalizations of team semantics and possible-world semantics may be good candidates for extending the formalization of causal discourse.  
 
-[slides](slides_invited_talk_1)
+[slides](slides_invited_talk_1.pdf)
 
 -----------------------------------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ constraint is implausible from a psychological point of view, and it wrongly pre
 
 Time permitting, I will also elaborate on further generalizations of the topic-sensitive semantics of imagination and the applications of proposed topic expansion operators to knowledge, belief, and conditionals. The main part of this talk is based on joint work with Aaron J. Cotnoir.  
 
-[slides](slides_invited_talk_3)
+[slides](slides_invited_talk_3.pdf)
 
 ---------------------------------------------------------------------------------------------------------------
 
