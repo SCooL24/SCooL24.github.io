@@ -116,30 +116,30 @@ Time permitting, I will also elaborate on further generalizations of the topic-s
 
 ### Accepted Papers ###
 
- | Authors | Title |
- | ---- | ---- | 
-  | Alexander Gheorghiu, Tao Gu and David Pym  |  [A Note on an Inferentialist Approach to Resource Semantics](abstracts/SLSS_2024_paper_1.pdf)  |
-  | Bartosz Więckowski | [Proof-theoretic considerations on the structure of reasoning with counterfactuals and knowledge](abstracts/SLSS_2024_paper_3.pdf) |  
-  | Bas Kortenbach, Luca Incurvati and Julian Schlöder  |  [Multilateral Supervaluationism and Classicality](abstracts/SLSS_2024_paper_12.pdf), [slides](slides_paper_12.pdf) |
-  | Camillo Fiore | [Notational Variance in Substructural Logics](abstracts/SLSS_2024_paper_9.pdf), [slides](slides_paper_9.pdf) |  
-  | Camillo Fiore and Bruno Da Ré |  [Maximally Substructural Classical Logic](abstracts/SLSS_2024_paper_8.pdf), [slides](slides_paper_8.pdf) |
-  | Daniel Leivant  |  [Finitism distilled](abstracts/SLSS_2024_paper_14.pdf) |
-  | Pawel Pawlowski and Daniel Skurt |  [Non-deterministic approach to modality](abstracts/SLSS_2024_paper_5.pdf) |
-  | Elio La Rosa  |  [Epsilon Modal Logics](abstracts/SLSS_2024_paper_19.pdf), [slides](slides_paper_19.pdf) |
-  | Giada Coleschi  |  [Gibberish and Ungrammaticality](abstracts/SLSS_2024_paper_11.pdf) |
-  | Haitian Wang, Malvin Gattinger and Avijeet Gosh  |  [How to represent a Kripke model? BDDs versus Mental Programs](abstracts/SLSS_2024_paper_20.pdf) |
-  | Kerkko Luosto and Lauri Hella  |  [Variants of the prenex normal form game](abstracts/SLSS_2024_paper_18.pdf), [slides](slides_paper_18.pdf) |
-  | Karol Wapniarski  |  [The (Non)emptiness Problem: Ontological Assumptions of Traditional Logic from Aristotle to Gorge Boole](abstracts/SLSS_2024_paper_7.pdf) |
-  | Ludovica Conti  |  [Arbitrary Abstraction and Logicality](abstracts/SLSS_2024_paper_22.pdf) |
-  | Merel Semeijn  |  [Common ground beyond the grave](abstracts/SLSS_2024_paper_2.pdf) |
-  | Micol Pasti  |  [Theory or metatheory? At What Level Should We Be Pluralists About Logic?](abstracts/SLSS_2024_paper_15.pdf) |
-  | Pedro del Valle-Inclan  |  [Carnap's Problem, Definability and Compositionality](abstracts/SLSS_2024_paper_10.pdf), [slides](slides_paper_10.pdf) |
-  | Pietro Vigiani  |  [Entailment and Containment: a Ternary and Contextual approach to Information and Topic Inclusion](abstracts/SLSS_2024_paper_6.pdf), [slides](slides_paper_6.pdf) |
-  | Sam Sanders and Dag Normann |  [The Big, Bigger, and Biggest Five of Reverse Mathematics](abstracts/SLSS_2024_paper_13.pdf), [slides](slides_paper_13.pdf) |
-  | Stipe Pandžić  |  [Inductive learning with first-order justification logic](abstracts/SLSS_2024_paper_21.pdf) |
-  | Tianyi Chu  |  [A Logic of Topic-sensitive and Fragmented Hyperintensional Belief](abstracts/SLSS_2024_paper_17.pdf) |
-  | Vera Koponen  |  [Random Expansions of finite structures with bounded degree](abstracts/SLSS_2024_paper_23.pdf), [slides](slides_paper_23.pdf) |
-  | Vít Punčochář  |  [An algebraic representation of information types](abstracts/SLSS_2024_paper_16.pdf), [slides](slides_paper_16.pdf) |
+ | Authors | Title | Links |
+ | ---- | ---- | ---- | 
+  | Alexander Gheorghiu, Tao Gu and David Pym  |  A Note on an Inferentialist Approach to Resource Semantics | [abstract](abstracts/SLSS_2024_paper_1.pdf)  |
+  | Bartosz Więckowski | Proof-theoretic considerations on the structure of reasoning with counterfactuals and knowledge | [abstract](abstracts/SLSS_2024_paper_3.pdf) |  
+  | Bas Kortenbach, Luca Incurvati and Julian Schlöder  |  Multilateral Supervaluationism and Classicality | [abstract](abstracts/SLSS_2024_paper_12.pdf), [slides](slides_paper_12.pdf) |
+  | Camillo Fiore | Notational Variance in Substructural Logics | [abstract](abstracts/SLSS_2024_paper_9.pdf), [slides](slides_paper_9.pdf) |  
+  | Camillo Fiore and Bruno Da Ré |  Maximally Substructural Classical Logic | [abstract](abstracts/SLSS_2024_paper_8.pdf), [slides](slides_paper_8.pdf) |
+  | Daniel Leivant  |  Finitism distilled | [abstract](abstracts/SLSS_2024_paper_14.pdf), [slides](slides_paper_14.pdf) |
+  | Pawel Pawlowski and Daniel Skurt |  Non-deterministic approach to modality | [abstract](abstracts/SLSS_2024_paper_5.pdf) |
+  | Elio La Rosa  |  Epsilon Modal Logics | [abstract](abstracts/SLSS_2024_paper_19.pdf), [slides](slides_paper_19.pdf) |
+  | Giada Coleschi  |  Gibberish and Ungrammaticality | [abstract](abstracts/SLSS_2024_paper_11.pdf) |
+  | Haitian Wang, Malvin Gattinger and Avijeet Gosh  |  How to represent a Kripke model? BDDs versus Mental Programs | [abstract](abstracts/SLSS_2024_paper_20.pdf) |
+  | Kerkko Luosto and Lauri Hella  |  Variants of the prenex normal form game | [abstract](abstracts/SLSS_2024_paper_18.pdf), [slides](slides_paper_18.pdf) |
+  | Karol Wapniarski  |  The (Non)emptiness Problem: Ontological Assumptions of Traditional Logic from Aristotle to Gorge Boole | [abstract](abstracts/SLSS_2024_paper_7.pdf) |
+  | Ludovica Conti  |  Arbitrary Abstraction and Logicality | [abstract](abstracts/SLSS_2024_paper_22.pdf) |
+  | Merel Semeijn  |  Common ground beyond the grave | [abstract](abstracts/SLSS_2024_paper_2.pdf) |
+  | Micol Pasti  |  Theory or metatheory? At What Level Should We Be Pluralists About Logic? | [abstract](abstracts/SLSS_2024_paper_15.pdf) |
+  | Pedro del Valle-Inclan  |  Carnap's Problem, Definability and Compositionality | [abstract](abstracts/SLSS_2024_paper_10.pdf), [slides](slides_paper_10.pdf) |
+  | Pietro Vigiani  |  Entailment and Containment: a Ternary and Contextual approach to Information and Topic Inclusion | [abstract](abstracts/SLSS_2024_paper_6.pdf), [slides](slides_paper_6.pdf) |
+  | Sam Sanders and Dag Normann |  The Big, Bigger, and Biggest Five of Reverse Mathematics | [abstract](abstracts/SLSS_2024_paper_13.pdf), [slides](slides_paper_13.pdf) |
+  | Stipe Pandžić  |  Inductive learning with first-order justification logic | [abstract](abstracts/SLSS_2024_paper_21.pdf) |
+  | Tianyi Chu  |  A Logic of Topic-sensitive and Fragmented Hyperintensional Belief | [abstract](abstracts/SLSS_2024_paper_17.pdf) |
+  | Vera Koponen  |  Random Expansions of finite structures with bounded degree | [abstract](abstracts/SLSS_2024_paper_23.pdf), [slides](slides_paper_23.pdf) |
+  | Vít Punčochář  |  An algebraic representation of information types | [abstract](abstracts/SLSS_2024_paper_16.pdf), [slides](slides_paper_16.pdf) |
 
 ---------------------------------------------------------------------------------------------------------------
 
