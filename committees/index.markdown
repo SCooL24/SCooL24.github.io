@@ -46,3 +46,11 @@ Angelo Montanari – University of Udine (Italy)
 Mimmo Parente – University of Salerno (Italy)  
 Jean-François Raskin – Université libre de Bruxelles (Belgium)  
 Martin Zimmermann – Aalborg University (Denmark)
+
+### Organising Committee ###
+
+Antonis Achilleos (Reykjavik University)  
+Aggeliki Chalki (Reykjavik University)  
+Vasiliki Kyriakou (Reykjavik University)  
+Jana Wagemaker (Reykjavik University)  
+Jasmine Xuereb (University of Malta and Reykjavik University) 
