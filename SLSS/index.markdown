@@ -49,6 +49,7 @@ Mina Young Pedersen (University of Bergen)
 Esko Turunen (TU Wien)  
 
 ### Organising Committee ###
+
 Antonis Achilleos (Reykjavik University)  
 Aggeliki Chalki (Reykjavik University)  
 Vasiliki Kyriakou (Reykjavik University)  
@@ -57,7 +58,6 @@ Jasmine Xuereb (University of Malta and Reykjavik University)
 
 
 ### Invited Speakers ###
-
 
  Fausto Barbero (University of Helsinki)  
  Sara Negri (University of Genoa)    
