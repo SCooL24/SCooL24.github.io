@@ -26,6 +26,14 @@ Fredrik Engström (University of Gothenburg)
 Åsa Hirvonen (University of Helsinki)   
 Ana Ozaki (University of Bergen & University of Oslo)  
 
+### Organising Committee ###
+
+Antonis Achilleos (Reykjavik University)  
+Aggeliki Chalki (Reykjavik University)  
+Vasiliki Kyriakou (Reykjavik University)  
+Jana Wagemaker (Reykjavik University)  
+Jasmine Xuereb (University of Malta and Reykjavik University) 
+
 #### Invited Speakers ####
 
 -------------------------------------------------------------------------------------------------
