@@ -86,6 +86,12 @@ The previous editions of GandALF already led to special issues of the Internatio
 
 ---------------------------------------------------------------------------------------------------------------
 
+## Published proceedings
+
+The proceedings of GandALF 2024 have been published by EPTCS and can be found [here](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?GandALF2024).
+
+---------------------------------------------------------------------------------------------------------------
+
 
 ## Accepted Papers
 
